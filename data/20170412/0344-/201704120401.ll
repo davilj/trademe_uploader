@@ -1,3 +1,0 @@
-LatestListing [title=Nomad Key Portable Smartphone Cable For Micro USB - Black Mobile Phone Charger New. Pay now., link=/mobile-phones/accessories/chargers/wall-chargers/auction-1296553225.htm, closingTimeText=closes in 5 secs, bidInfo=, priceInfo=];
-LatestListing [title=T-Mobile Flex Cover For Nokia Lumia 530 Case Protection Impact Resistant Gel New. Pay now., link=/mobile-phones/accessories/cases-covers/other/auction-1296553964.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
-LatestListing [title=Diamond Matte Samsung S7 edge screen protector New., link=/mobile-phones/accessories/screen-protectors/auction-1299335545.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=];

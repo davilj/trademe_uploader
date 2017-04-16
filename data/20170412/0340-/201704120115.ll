@@ -1,1 +1,0 @@
-LatestListing [title=Wine Glass Tumbler - 200mm Tall Glass 260mL x6 New. Pay now., link=/pottery-glass/glass-crystal/glasses/stemware/auction-1296560563.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$23.70];

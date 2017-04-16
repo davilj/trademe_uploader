@@ -1,9 +1,0 @@
-LatestListing [title=Countdown Collectible Full Set HEROS Collections Pay now., link=/antiques-collectables/movie-tv-memorabilia/other/auction-1295808361.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=];
-LatestListing [title=Countdown collection cards STAR WARS, HEROS, Moviestars, Pay now., link=/antiques-collectables/movie-tv-memorabilia/other/auction-1295808370.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=];
-LatestListing [title=Emerson G3 Tactical Pants w/ Pads (MULTICAM TROPIC) S-XXL New. Pay now., link=/antiques-collectables/militaria/uniforms/auction-1299325586.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$112.00];
-LatestListing [title=SWAT/POLICE Harness Tactical Combat Vest L New. Pay now., link=/antiques-collectables/movie-tv-memorabilia/other/auction-1299339229.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$69.00];
-LatestListing [title=R6 Perfect BDU Uniform Multicam - XXL New. Pay now., link=/antiques-collectables/militaria/uniforms/auction-1299339260.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$99.00];
-LatestListing [title=Emerson MOLLE Double Open Top Magazine Pouch CB New. Pay now., link=/antiques-collectables/militaria/modern/auction-1299339272.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$35.99];
-LatestListing [title=Scotland flag New., link=/antiques-collectables/flags/auction-1299340674.htm, closingTimeText=closes in 1 hr 8 mins, bidInfo=, priceInfo=$8.00];
-LatestListing [title=AIRSOFT V-LITE TYPE LED SAFETY HELMET LIGHT MARKER (RED) TAN New. Pay now., link=/antiques-collectables/militaria/modern/auction-1299341388.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=$34.99];
-LatestListing [title=Saar x1 - Scenic Views Saarlouis Fort 1927, link=/antiques-collectables/stamps/europe-ex-great-britain/auction-1299341505.htm, closingTimeText=closes in 1 hr 11 mins, bidInfo=, priceInfo=$4.00];

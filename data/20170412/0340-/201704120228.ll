@@ -1,1 +1,0 @@
-LatestListing [title=Retro 1970 Queen Anne Cups and Saucers, link=/pottery-glass/porcelain-pottery/queen-anne/auction-1296570214.htm, closingTimeText=closes in 3 hrs 4 mins, bidInfo=, priceInfo=$20.00];

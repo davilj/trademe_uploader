@@ -1,8 +1,0 @@
-LatestListing [title=9v Batteries - 2 X Green Max Energy Plus Long New. Pay now. Free Shipping., link=/electronics-photography/batteries/disposable/other/auction-1296537089.htm, closingTimeText=closes in 50 secs, bidInfo=, priceInfo=];
-LatestListing [title=Tabletop Projector Screen: 50" 4:3 New. Pay now., link=/electronics-photography/projectors-screens/screens/auction-1296537207.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
-LatestListing [title=Diffuser cap for Nikon New. Pay now., link=/electronics-photography/camera-accessories/other/auction-1296537782.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
-LatestListing [title=Sirui VH-10 Video Head by Photogear New., link=/electronics-photography/camera-accessories/tripods/auction-1298644348.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
-LatestListing [title=Digital alarm clock New., link=/electronics-photography/other-electronics/clocks-alarms/auction-1296539780.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$15.00];
-LatestListing [title=Binoculars New., link=/electronics-photography/binoculars-telescopes/binoculars/auction-1296539806.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$40.00];
-LatestListing [title=Infrared Remote Control - E3 Canon 60D 550D New. Pay now., link=/electronics-photography/camera-accessories/remote-shutters/auction-1296540572.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$79.00];
-LatestListing [title=Shutter Release Remote Nikon D70S D80 SR-N2 New. Pay now., link=/electronics-photography/camera-accessories/remote-shutters/auction-1296540574.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];

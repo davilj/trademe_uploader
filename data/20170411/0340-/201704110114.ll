@@ -1,3 +1,0 @@
-LatestListing [title=Sadler ye old ivy cottage tea pot, link=/pottery-glass/porcelain-pottery/other-british-manufacturers/other/auction-1295774275.htm, closingTimeText=closes in 7 mins, bidInfo=1 bid, priceInfo=$40.00];
-LatestListing [title=Wine Glass Tumbler - 200mm Tall Glass 260mL x6 New. Pay now., link=/pottery-glass/glass-crystal/glasses/stemware/auction-1296560563.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$23.70];
-LatestListing [title=BRAND NEW "GUITAR KIWI" - CRYSTAL PLUS SERIES New., link=/pottery-glass/glass-crystal/ornaments/other-animals/auction-1295823184.htm, closingTimeText=closes in 3 hrs 14 mins, bidInfo=, priceInfo=$38.00];

@@ -1,7 +1,0 @@
-LatestListing [title=BRAND NEW "GUITAR KIWI" - CRYSTAL PLUS SERIES New., link=/pottery-glass/glass-crystal/ornaments/other-animals/auction-1295823184.htm, closingTimeText=closes in 36 secs, bidInfo=, priceInfo=$38.00];
-LatestListing [title=Crown Ducal Random Harvest Turin Bowl Pay now., link=/pottery-glass/porcelain-pottery/crown-ducal/auction-1295837013.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=$5.00];
-LatestListing [title=A very Large Michael Block bowl 370mm x 130mm, link=/pottery-glass/porcelain-pottery/other-nz-manufacturers/auction-1295847143.htm, closingTimeText=closes in 2 hrs 5 mins, bidInfo=1 bid, priceInfo=$50.00];
-LatestListing [title=Zibo Turtle New. Pay now., link=/pottery-glass/glass-crystal/ornaments/other-animals/auction-1295848076.htm, closingTimeText=closes in 2 hrs 8 mins, bidInfo=, priceInfo=];
-LatestListing [title=Wine Glasses Pay now., link=/pottery-glass/glass-crystal/glasses/stemware/auction-1295865274.htm, closingTimeText=closes in 3 hrs 4 mins, bidInfo=, priceInfo=$45.00];
-LatestListing [title=Wade Whimsey - Gorilla [8], link=/pottery-glass/porcelain-pottery/wade/other-whimsies/auction-1298063030.htm, closingTimeText=closes in 3 hrs 13 mins, bidInfo=, priceInfo=$4.00];
-LatestListing [title=Blue Mountain 2 tare Cake Stand., link=/pottery-glass/porcelain-pottery/blue-mountain/auction-1295870874.htm, closingTimeText=closes in 3 hrs 15 mins, bidInfo=, priceInfo=$8.00];

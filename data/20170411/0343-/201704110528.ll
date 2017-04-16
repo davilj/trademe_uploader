@@ -1,2 +1,0 @@
-LatestListing [title=VARIOUS - THE METAL BAR (2CD) New. Pay now., link=/music-instruments/cds/compilations/auction-1295835121.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
-LatestListing [title=Bagpipe Hemp. (Plain Yellow). 50 grams New. Pay now., link=/music-instruments/instruments/wind-instruments/other/auction-1295837027.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$35.00];

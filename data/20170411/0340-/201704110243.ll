@@ -1,3 +1,0 @@
-LatestListing [title=*Cute Little Mugs with Feet - Green, link=/pottery-glass/porcelain-pottery/other/cups-saucers/auction-1295828122.htm, closingTimeText=closes in 2 hrs 13 mins, bidInfo=, priceInfo=$15.00];
-LatestListing [title=*Side Plate - Royal Stafford - "Broom", link=/pottery-glass/porcelain-pottery/staffordshire/plates-bowls-dishes/auction-1295828274.htm, closingTimeText=closes in 2 hrs 13 mins, bidInfo=, priceInfo=$2.00];
-LatestListing [title=* Two Handled Soup Bowl - Grindley., link=/pottery-glass/porcelain-pottery/other-british-manufacturers/bowls-dishes/auction-1295828612.htm, closingTimeText=closes in 2 hrs 15 mins, bidInfo=, priceInfo=$3.00];

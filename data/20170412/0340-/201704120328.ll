@@ -1,5 +1,0 @@
-LatestListing [title=Retro 1970 Queen Anne Cups and Saucers, link=/pottery-glass/porcelain-pottery/queen-anne/auction-1296570214.htm, closingTimeText=closes in 2 hrs 4 mins, bidInfo=, priceInfo=$20.00];
-LatestListing [title=small carlton ware gravy boat New., link=/pottery-glass/porcelain-pottery/carlton-ware/other/auction-1296589332.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$10.00];
-LatestListing [title=Wire Plate Display Hanger 36-46CM - Leeds Display New. Pay now., link=/pottery-glass/porcelain-pottery/other-british-manufacturers/plates-platters/auction-1297281299.htm, closingTimeText=closes in 3 hrs 13 mins, bidInfo=, priceInfo=];
-LatestListing [title=Wire Plate Display Hanger 13-19CM - Leeds Display New. Pay now., link=/pottery-glass/porcelain-pottery/other-british-manufacturers/plates-platters/auction-1297281300.htm, closingTimeText=closes in 3 hrs 13 mins, bidInfo=, priceInfo=];
-LatestListing [title=Pair of Pottery Pots - Brown/Black, link=/pottery-glass/porcelain-pottery/other/other/auction-1296590496.htm, closingTimeText=closes in 3 hrs 15 mins, bidInfo=, priceInfo=$2.50];

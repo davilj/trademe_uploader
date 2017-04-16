@@ -1,4 +1,0 @@
-LatestListing [title=AC148-20 :: Machine Screw Pozidrive M6 x 20mm Countersunk BLACK New. Pay now., link=/music-instruments/pa-pro-audio-dj-equipment/other/auction-1296551071.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
-LatestListing [title=**New** Fender California Clear Guitar Cables 3FT New. Pay now., link=/music-instruments/instruments/guitar-bass/stands/auction-1296551475.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$24.99];
-LatestListing [title=DJ Power Disco Fog Liquid 4,5kg New. Pay now., link=/music-instruments/pa-pro-audio-dj-equipment/lighting-effects/smoke-bubble-machines/auction-1297261483.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=];
-LatestListing [title=Digital Drum Kit Ringway TD90-V2 New Sale New. Pay now., link=/music-instruments/instruments/drums/drum-kits/auction-1297263041.htm, closingTimeText=closes in 2 hrs 13 mins, bidInfo=, priceInfo=$629.00];

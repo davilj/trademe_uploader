@@ -1,3 +1,0 @@
-LatestListing [title=Bagpipe Hemp. (Plain Yellow). 50 grams New. Pay now., link=/music-instruments/instruments/wind-instruments/other/auction-1295837027.htm, closingTimeText=closes in 37 secs, bidInfo=, priceInfo=$35.00];
-LatestListing [title=Artist SVN14 Solid Wood Student Violin Package New. Pay now. Free Shipping., link=/music-instruments/instruments/string/violins-violas/auction-1295838232.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
-LatestListing [title=CD-Dreamworld Harmonics New. Pay now. Free Shipping., link=/music-instruments/cds/ambient-new-age/auction-1297261956.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$22.99];

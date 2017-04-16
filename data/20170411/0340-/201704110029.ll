@@ -1,3 +1,0 @@
-LatestListing [title=London glass bowl, large New. Pay now., link=/pottery-glass/glass-crystal/bowls-dishes/auction-1299281674.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$16.95];
-LatestListing [title=Mayan Aztec Inca Figure - Pottery, link=/pottery-glass/porcelain-pottery/unmarked-pieces/auction-1295757884.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$35.00];
-LatestListing [title=Kenwood Attachment Chef Sense Glass Bowl KAT550GL New. Pay now., link=/pottery-glass/glass-crystal/bowls-dishes/auction-1295781430.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=];

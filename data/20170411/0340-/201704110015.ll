@@ -1,4 +1,0 @@
-LatestListing [title=Pottery Koru * Set of 3 KIWIANA ART New. Pay now., link=/pottery-glass/porcelain-pottery/other/sets/auction-1295750155.htm, closingTimeText=closes in 5 secs, bidInfo=, priceInfo=$35.00];
-LatestListing [title=Aqua Marine Glass Turtle New. Pay now., link=/pottery-glass/glass-crystal/ornaments/sea-creatures/auction-1298601802.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$17.95];
-LatestListing [title=London glass bowl, large New. Pay now., link=/pottery-glass/glass-crystal/bowls-dishes/auction-1299281674.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$16.95];
-LatestListing [title=Sadler ye old ivy cottage tea pot, link=/pottery-glass/porcelain-pottery/other-british-manufacturers/other/auction-1295774275.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=1 bid, priceInfo=$40.00];

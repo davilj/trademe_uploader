@@ -1,8 +1,0 @@
-LatestListing [title=JAJ (English) Pyrex 3.5 Pint Deep Oblong Casserole Dish - Snowflake, link=/pottery-glass/glass-crystal/bowls-dishes/auction-1295856486.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$20.00];
-LatestListing [title=Stoneware salt pig in perfect condition Pay now., link=/pottery-glass/porcelain-pottery/other-nz-manufacturers/auction-1295856763.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$8.00];
-LatestListing [title=Rorstrand Oven Dish - Granada, link=/pottery-glass/porcelain-pottery/other/bowls-dishes/auction-1295857218.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$20.00];
-LatestListing [title=Crown Lyn Jug, link=/pottery-glass/porcelain-pottery/crown-lynn/jugs/auction-1295858234.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$5.00];
-LatestListing [title=2 Piece Gold & white Miniature bowl & vase, link=/pottery-glass/porcelain-pottery/other/other/auction-1295858784.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$1.00];
-LatestListing [title=French antique Monk figurine, link=/pottery-glass/porcelain-pottery/unmarked-pieces/auction-1295879860.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=$50.00];
-LatestListing [title=French antique monk figurine, link=/pottery-glass/porcelain-pottery/unmarked-pieces/auction-1295879866.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=$50.00];
-LatestListing [title=Set of 6 Glasses by Forest Glass New., link=/pottery-glass/glass-crystal/glasses/other/auction-1295906334.htm, closingTimeText=closes in 2 hrs 4 mins, bidInfo=, priceInfo=$20.00];

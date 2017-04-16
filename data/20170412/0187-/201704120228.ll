@@ -1,6 +1,0 @@
-LatestListing [title=South Korea Flag - New. Pay now. Free Shipping., link=/antiques-collectables/flags/auction-1296530392.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=];
-LatestListing [title=Ireland Flags - Amscan Ppp 15 X 22cm Waving , New. Pay now. Free Shipping., link=/antiques-collectables/flags/auction-1296546665.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
-LatestListing [title=Turkey Flag - 5ft X 3ft New. Pay now. Free Shipping., link=/antiques-collectables/flags/auction-1296549947.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=];
-LatestListing [title=EMERSON Military First Aid Kit Medic Pouch KH / TAN New. Pay now., link=/antiques-collectables/militaria/other/auction-1299999648.htm, closingTimeText=closes in 2 hrs 4 mins, bidInfo=, priceInfo=$40.99];
-LatestListing [title=Emerson Dummy AN PVS-14 NVG Night Vision Goggle DE / Tan New. Pay now., link=/antiques-collectables/militaria/other/auction-1300001554.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=$69.99];
-LatestListing [title=EMERSON Military First Aid Kit Medic Pouch Multicam New. Pay now., link=/antiques-collectables/militaria/uniforms/auction-1300002119.htm, closingTimeText=closes in 2 hrs 11 mins, bidInfo=, priceInfo=$40.99];

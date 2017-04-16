@@ -1,8 +1,0 @@
-LatestListing [title=CD-Crystal Healing New. Pay now. Free Shipping., link=/music-instruments/cds/ambient-new-age/auction-1297265140.htm, closingTimeText=closes in 53 secs, bidInfo=, priceInfo=$32.99];
-LatestListing [title=CD-Healing Gold New. Pay now. Free Shipping., link=/music-instruments/cds/ambient-new-age/auction-1297265186.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$31.99];
-LatestListing [title=CD-Windjana New. Pay now., link=/music-instruments/cds/ambient-new-age/auction-1297266090.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$31.44];
-LatestListing [title=CD-Prophecies New. Pay now., link=/music-instruments/cds/ambient-new-age/auction-1297266336.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$30.52];
-LatestListing [title=LINDA RONSTADT - ORIGINAL ALBUM SERIES (5CD) New. Pay now., link=/music-instruments/cds/pop-rock/artist-r/auction-1295841235.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
-LatestListing [title=CD-Inner Peace Inner Wisdom New. Pay now. Free Shipping., link=/music-instruments/cds/ambient-new-age/auction-1297268560.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$36.99];
-LatestListing [title=4011 :: Carvin Bass Strings 4 String Medium 40 - 100 New. Pay now., link=/music-instruments/instruments/guitar-bass/strings/auction-1295842664.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
-LatestListing [title=Joyo JP01 Power Supply Brick with 10 outputs for New. Pay now. Free Shipping., link=/music-instruments/instruments/guitar-bass/effects-units/auction-1295843043.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];

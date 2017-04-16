@@ -1,6 +1,0 @@
-LatestListing [title=HTC Desire 825 case _2017 New. Pay now., link=/mobile-phones/accessories/cases-covers/other/auction-1295803628.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$12.96];
-LatestListing [title=Motorola Moto G 2nd Gen Tempered Glass Screen Protector New. Pay now., link=/mobile-phones/accessories/cases-covers/motorola/auction-1296537193.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=];
-LatestListing [title=ipod touch4 replacement digitzer & lcd screen blk New., link=/mobile-phones/replacement-parts-components/screens/auction-1295805008.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$39.90];
-LatestListing [title=Body Glove Nova Case For Samsung Galaxy S4 Flexible Cover No Slip Hard Skin Pay now., link=/mobile-phones/accessories/cases-covers/other/auction-1295805700.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
-LatestListing [title=Incipio DualPro Case For HTC Desire 626/626s 2-Layer Cover Protection Rigid Skin New. Pay now., link=/mobile-phones/accessories/cases-covers/other/auction-1295805708.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
-LatestListing [title=Sony Xperia Z3 Tempered glass screen protector Pay now., link=/mobile-phones/accessories/cases-covers/huawei/auction-1296539205.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];

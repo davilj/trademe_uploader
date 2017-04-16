@@ -1,9 +1,0 @@
-LatestListing [title=LCD Screen protector for SONY A7 A7R A7S New. Pay now., link=/electronics-photography/camera-accessories/other/auction-1295804482.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$14.50];
-LatestListing [title=Nisi MCUV Filter 52mm New. Pay now., link=/electronics-photography/camera-accessories/filters/auction-1295804521.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
-LatestListing [title=Nisi UV370 MCUV Optical Glass Filter 77mm New., link=/electronics-photography/camera-accessories/filters/auction-1295804528.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
-LatestListing [title=120cm Gold/Silver Multi Layer Softbox New. Pay now., link=/electronics-photography/camera-accessories/reflectors/auction-1295804540.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
-LatestListing [title=Scull Candy Headphones - WHITE, link=/electronics-photography/home-audio/headphones/auction-1295804818.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$35.00];
-LatestListing [title=Panasonic 18650 3.7v li-ion 3400 mAh GENUINE New. Pay now., link=/electronics-photography/batteries/rechargeable/other/auction-1295804912.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=];
-LatestListing [title=3D Printer Acc - 1x GT2-6mm Timing Belt 1m New. Pay now., link=/electronics-photography/other-electronics/electronic-components/other/auction-1295805903.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=];
-LatestListing [title=CPL Ultra HD Filter 82mm - SPECIAL New. Pay now., link=/electronics-photography/camera-accessories/filters/auction-1295806430.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=];
-LatestListing [title=MCUV Ultra HD Filter 82mm - SPECIAL New. Pay now., link=/electronics-photography/camera-accessories/filters/auction-1295806436.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=];

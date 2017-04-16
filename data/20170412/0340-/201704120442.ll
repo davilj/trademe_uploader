@@ -1,9 +1,0 @@
-LatestListing [title=Pair of Pottery Pots - Brown/Black, link=/pottery-glass/porcelain-pottery/other/other/auction-1296590496.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=, priceInfo=$2.50];
-LatestListing [title=Pottery, link=/pottery-glass/porcelain-pottery/blue-mountain/auction-1296591870.htm, closingTimeText=closes in 2 hrs 6 mins, bidInfo=, priceInfo=$160.00];
-LatestListing [title=Adams Calyx Ware cup + freebie A/F dish, link=/pottery-glass/porcelain-pottery/other-british-manufacturers/cups-saucers/auction-1296593693.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$5.00];
-LatestListing [title=Croatian/European(?) vase Terracotta Glazed, link=/pottery-glass/porcelain-pottery/other-european-manufacturers/auction-1296593697.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$7.50];
-LatestListing [title=Sandland Ware Milk Jug / Sugarbowl Yellow Roses Pay now., link=/pottery-glass/porcelain-pottery/queen-anne/auction-1296593700.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$16.00];
-LatestListing [title=Shelley Cake plate 1920s Butterfly design RARE Pay now., link=/pottery-glass/porcelain-pottery/shelley/auction-1296593704.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$150.00];
-LatestListing [title=Set of 3 Pots - Drk Bl/ Floral (2 with handles), link=/pottery-glass/porcelain-pottery/other/sets/auction-1296613847.htm, closingTimeText=closes in 3 hrs 1 min, bidInfo=, priceInfo=$5.00];
-LatestListing [title=Lovely Pottery Sculpture Jug Olwyn Dykes, link=/pottery-glass/porcelain-pottery/other-nz-manufacturers/auction-1299398798.htm, closingTimeText=closes in 3 hrs 2 mins, bidInfo=, priceInfo=$1.00];
-LatestListing [title=LIBBEY 192ml/6.5Oz White Wine Glass x12 New. Pay now., link=/pottery-glass/glass-crystal/glasses/other/auction-1297312396.htm, closingTimeText=closes in 3 hrs 3 mins, bidInfo=, priceInfo=$39.00];

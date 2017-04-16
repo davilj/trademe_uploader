@@ -1,1 +1,0 @@
-LatestListing [title=* Two Handled Soup Bowl - Grindley., link=/pottery-glass/porcelain-pottery/other-british-manufacturers/bowls-dishes/auction-1295828612.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=, priceInfo=$3.00];

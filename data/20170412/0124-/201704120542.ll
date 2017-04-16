@@ -1,9 +1,0 @@
-LatestListing [title=Camera Battery for CANON LP-E6 New. Pay now., link=/electronics-photography/camera-accessories/batteries/canon/auction-1297260269.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
-LatestListing [title=Panasonic cordless phones 3 handsets, link=/electronics-photography/phone-fax/cordless-phones/auction-1296571857.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$55.00];
-LatestListing [title=Motion Detector 12~ 24 V for LED lights Solar New. Pay now., link=/electronics-photography/batteries/disposable/other/auction-1296572246.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$11.49];
-LatestListing [title=Panasonic Aaa Battery Alkaline (24Pk) New. Pay now. Free Shipping., link=/electronics-photography/batteries/disposable/aaa/auction-1296572438.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$27.12];
-LatestListing [title=VEON V55UHDS - BRAND NEW LED TV REMOTE New. Pay now., link=/electronics-photography/tvs/remotes/auction-1296572588.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
-LatestListing [title=Digital Voice Recorder 8GB 650Hr Dictaphone & MP3 OA3 New. Pay now., link=/electronics-photography/other-electronics/voice-recorders/auction-1296573246.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$32.20];
-LatestListing [title=Pixel RC201 Wired Shutter Release for Sony New. Pay now., link=/electronics-photography/camera-accessories/remote-shutters/auction-1296574124.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
-LatestListing [title=Reverse macro mount protector for Canon lens New. Pay now., link=/electronics-photography/camera-accessories/lenses/canon/auction-1300021449.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$19.50];
-LatestListing [title=Apple TV Compatible Remote For: TV1 TV2 TV3 New. Pay now., link=/electronics-photography/tvs/remotes/auction-1296575541.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];

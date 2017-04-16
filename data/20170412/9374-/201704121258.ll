@@ -1,3 +1,0 @@
-LatestListing [title=Movie Tickets, link=/travel-events-activities/event-tickets/other/auction-1298918122.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$40.00];
-LatestListing [title=Bed & Breakfast (King) Wgtn Accommodation Lions Rugby Tour 2017 Pay now. Free Shipping., link=/travel-events-activities/accommodation/new-zealand/wellington/auction-1296825384.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$120.00];
-LatestListing [title=Passport Wallet Handy Travel Holder - Blue New. Pay now., link=/travel-events-activities/other/auction-1296851761.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=, priceInfo=];

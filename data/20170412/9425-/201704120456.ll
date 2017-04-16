@@ -1,9 +1,0 @@
-LatestListing [title=Black Bird Cage and stand, link=/pets-animals/birds/cages-accessories/auction-1296567556.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$90.00];
-LatestListing [title=Pet Feeder & Waterer (X 2) Automatic Dogs Cats New. Pay now., link=/pets-animals/dogs/bowls-feeders/auction-1300021840.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$18.95];
-LatestListing [title=Dog Soft Crate Pet Carrier Portable 60x42x42cm M New. Pay now., link=/pets-animals/cats/cages-and-carry-cases/auction-1300021868.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$39.95];
-LatestListing [title=EZYDOG CHEST PLATE DOG HARNESS SMALL BLACK New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1300022831.htm, closingTimeText=closes in 1 hr 6 mins, bidInfo=, priceInfo=];
-LatestListing [title=HALTI Harness Stops Pulling Kindly Size Small New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1300022834.htm, closingTimeText=closes in 1 hr 6 mins, bidInfo=, priceInfo=];
-LatestListing [title=Trixie Dog High frequency Whistle New. Pay now., link=/pets-animals/dogs/toys-treats/auction-1300022835.htm, closingTimeText=closes in 1 hr 6 mins, bidInfo=, priceInfo=];
-LatestListing [title=TRIXIE WASHABLE PROTECTIVE DOG PANTS XLARGE New. Pay now., link=/pets-animals/dogs/health-care/auction-1300022830.htm, closingTimeText=closes in 1 hr 6 mins, bidInfo=, priceInfo=];
-LatestListing [title=Vetafarm Parrot Essentials Pellets 350g - Complete Diet With Real Fruit & Nuts! New., link=/pets-animals/birds/other/auction-1296578977.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=$22.05];
-LatestListing [title=DOG BED SCRUFFS HIGHLAND BOX BED XTRA LARGE New. Pay now. Free Shipping., link=/pets-animals/dogs/beds-baskets/auction-1296579305.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=$159.50];

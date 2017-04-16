@@ -1,2 +1,0 @@
-LatestListing [title=France + Eastern Europe 13 Days Free Shipping., link=/travel-events-activities/holiday-packages/international/auction-1296704122.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$3,399];
-LatestListing [title=2 x Black satin sleepmasks New. Pay now., link=/travel-events-activities/other/auction-1299495570.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=$5.00];

@@ -1,5 +1,0 @@
-LatestListing [title=X2 Coachella tickets WEEKEND1 (inclu accom if req) New., link=/travel-events-activities/event-tickets/concerts/auction-1296751786.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$1,140];
-LatestListing [title=30 Train Journeys Of The World, link=/books/rare-collectable/other/1950-today/auction-1299505691.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$3.00];
-LatestListing [title=Movie Tickets, link=/travel-events-activities/event-tickets/other/auction-1298918122.htm, closingTimeText=closes in 1 hr 9 mins, bidInfo=, priceInfo=$40.00];
-LatestListing [title=Bed & Breakfast (King) Wgtn Accommodation Lions Rugby Tour 2017 Pay now. Free Shipping., link=/travel-events-activities/accommodation/new-zealand/wellington/auction-1296825384.htm, closingTimeText=closes in 2 hrs 11 mins, bidInfo=, priceInfo=$120.00];
-LatestListing [title=Bed & Breakfast (Queen) Wgtn Accommodation Lions Rugby Tour 2017 Pay now. Free Shipping., link=/travel-events-activities/accommodation/new-zealand/wellington/auction-1296825913.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$120.00];

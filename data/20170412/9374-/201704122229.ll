@@ -1,2 +1,0 @@
-LatestListing [title=Mountain Designs Travelite 530 Standard Down Sleeping Bag, link=/travel-events-activities/other/auction-1297177847.htm, closingTimeText=closes in 2 mins, bidInfo=3 bids, priceInfo=$52.00];
-LatestListing [title=Mountain Designs Wanderer 100 Sleeping Bag + High Quality 100% Silk Liner, link=/travel-events-activities/other/auction-1297183464.htm, closingTimeText=closes in 11 mins, bidInfo=1 bid, priceInfo=$50.00];

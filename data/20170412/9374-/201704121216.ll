@@ -1,2 +1,0 @@
-LatestListing [title=Fog / Air Horn - Hand Held Loud Air Horn New. Pay now., link=/travel-events-activities/other/auction-1296765317.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$34.95];
-LatestListing [title=PAPER TRAVEL POTTY - Disposable, Hygenic New. Pay now., link=/travel-events-activities/other/auction-1300277131.htm, closingTimeText=closes in 3 hrs 4 mins, bidInfo=, priceInfo=$9.50];

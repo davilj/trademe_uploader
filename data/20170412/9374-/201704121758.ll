@@ -1,6 +1,0 @@
-LatestListing [title=Canada Badges - IGZ Pay now., link=/travel-events-activities/other/auction-1298414583.htm, closingTimeText=closes in 1 hr 1 min, bidInfo=, priceInfo=$5.00];
-LatestListing [title=Club Paihia 2 bdrm Apt 8 - 15 July 2017 Free Shipping., link=/travel-events-activities/accommodation/new-zealand/northland/auction-1297005860.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=$999.00];
-LatestListing [title=Waikiki Studio / Free Parking & Wifi / Inn on the Park Free Shipping., link=/travel-events-activities/accommodation/international/auction-1297048329.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=, priceInfo=];
-LatestListing [title=Cyndi Lauper & Blondie - 2 Tickets Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1301005130.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=9 bids, priceInfo=$185.00];
-LatestListing [title=Luxury Escape in Thailand Free Shipping., link=/travel-events-activities/holiday-packages/international/auction-1297059069.htm, closingTimeText=closes in 2 hrs 15 mins, bidInfo=, priceInfo=$30.00];
-LatestListing [title=Sail Indonesia with us, link=/travel-events-activities/holiday-packages/international/auction-1297116610.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$150.00];

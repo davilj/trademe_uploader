@@ -1,8 +1,0 @@
-LatestListing [title=4 Tickets to Urzila Carlson, 12 May 2017 New. Free Shipping., link=/travel-events-activities/event-tickets/other/auction-1296686253.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$100.00];
-LatestListing [title=Concert Jonathan Lemalu New., link=/travel-events-activities/event-tickets/concerts/auction-1301092611.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$30.00];
-LatestListing [title=2 x STATUS QUO FRONT ROW TICKETS New. Pay now. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296711509.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$600.00];
-LatestListing [title=Charm of Europe 15 Days Free Shipping., link=/travel-events-activities/holiday-packages/international/auction-1296715015.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=$3,599];
-LatestListing [title=France Belgium Holland Germany Luxembourg 9 Days Free Shipping., link=/travel-events-activities/holiday-packages/international/auction-1296715349.htm, closingTimeText=closes in 1 hr 8 mins, bidInfo=, priceInfo=$3,099];
-LatestListing [title=X2 Coachella tickets WEEKEND1 (inclu accom if req) New., link=/travel-events-activities/event-tickets/concerts/auction-1296751786.htm, closingTimeText=closes in 2 hrs 10 mins, bidInfo=, priceInfo=$1,140];
-LatestListing [title=30 Train Journeys Of The World, link=/books/rare-collectable/other/1950-today/auction-1299505691.htm, closingTimeText=closes in 2 hrs 14 mins, bidInfo=, priceInfo=$3.00];
-LatestListing [title=Movie Tickets, link=/travel-events-activities/event-tickets/other/auction-1298918122.htm, closingTimeText=closes in 3 hrs 14 mins, bidInfo=, priceInfo=$40.00];

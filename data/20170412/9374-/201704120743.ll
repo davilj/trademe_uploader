@@ -1,5 +1,0 @@
-LatestListing [title=Travel Stationary Kit New. Pay now., link=/travel-events-activities/other/auction-1296614536.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
-LatestListing [title=Imperial China 15 Days, link=/travel-events-activities/holiday-packages/international/auction-1296672130.htm, closingTimeText=closes in 2 hrs 2 mins, bidInfo=, priceInfo=$2,299];
-LatestListing [title=Amazing trip to China & Thailand 15 days Free Shipping., link=/travel-events-activities/holiday-packages/international/auction-1296672380.htm, closingTimeText=closes in 2 hrs 2 mins, bidInfo=, priceInfo=$2,999];
-LatestListing [title=Panorama of China 20B Days (2016/2017), link=/travel-events-activities/holiday-packages/international/auction-1296672610.htm, closingTimeText=closes in 2 hrs 3 mins, bidInfo=, priceInfo=$3,599];
-LatestListing [title=France + Eastern Europe 13 Days Free Shipping., link=/travel-events-activities/holiday-packages/international/auction-1296704122.htm, closingTimeText=closes in 3 hrs 2 mins, bidInfo=, priceInfo=$3,399];

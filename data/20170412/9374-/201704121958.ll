@@ -1,6 +1,0 @@
-LatestListing [title=Waikiki Studio / Free Parking & Wifi / Inn on the Park Free Shipping., link=/travel-events-activities/accommodation/international/auction-1297048329.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
-LatestListing [title=Cyndi Lauper & Blondie - 2 Tickets Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1301005130.htm, closingTimeText=closes in 1 min, bidInfo=12 bids, priceInfo=$201.00];
-LatestListing [title=Luxury Escape in Thailand Free Shipping., link=/travel-events-activities/holiday-packages/international/auction-1297059069.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$30.00];
-LatestListing [title=Sail Indonesia with us, link=/travel-events-activities/holiday-packages/international/auction-1297116610.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=$150.00];
-LatestListing [title=Decoration - Gift container - Metal - SHELL - New New., link=/travel-events-activities/other/auction-1299868553.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=, priceInfo=$42.00];
-LatestListing [title=Bullswool Farm Park Pass for 2 Adults usually $30, link=/travel-events-activities/activities/auction-1297165806.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=6 bids, priceInfo=$5.50];

@@ -1,3 +1,0 @@
-LatestListing [title=Sail Indonesia with us, link=/travel-events-activities/holiday-packages/international/auction-1297116610.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$150.00];
-LatestListing [title=Bullswool Farm Park Pass for 2 Adults usually $30, link=/travel-events-activities/activities/auction-1297165806.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=6 bids, priceInfo=$5.50];
-LatestListing [title=booked Pay now. Free Shipping., link=/travel-events-activities/accommodation/new-zealand/coromandel/auction-1300129620.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$7,500];

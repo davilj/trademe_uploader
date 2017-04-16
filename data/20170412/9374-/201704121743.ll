@@ -1,7 +1,0 @@
-LatestListing [title=Gold Coast - 2 Brm Ocean Views 5 Star H Resort Free Shipping., link=/travel-events-activities/accommodation/international/auction-1296959078.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$220.00];
-LatestListing [title=Jethro Tull ASB Auckland Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1297041178.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=1 bid, priceInfo=$200.00];
-LatestListing [title=Auto Aid Car Window Breaker Handle Flashlight Emergency Cane Hammer Belt Cutter New. Pay now. Free Shipping., link=/travel-events-activities/other/auction-1297042584.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=];
-LatestListing [title=Party in the Park - Unique Birthday Parties! Pay now. Free Shipping., link=/travel-events-activities/activities/auction-1300527613.htm, closingTimeText=closes in 3 hrs 2 mins, bidInfo=, priceInfo=];
-LatestListing [title=TV costumes/props or Sevens/Nines costumes, link=/travel-events-activities/other/auction-1297096308.htm, closingTimeText=closes in 3 hrs 5 mins, bidInfo=, priceInfo=$3,500];
-LatestListing [title=Very Nice Real Fountain Pen With Nib Baoer Model 388 Pay now., link=/travel-events-activities/other/auction-1297098357.htm, closingTimeText=closes in 3 hrs 6 mins, bidInfo=, priceInfo=$12.00];
-LatestListing [title=10 passes to Delta Paintballs, link=/travel-events-activities/activities/auction-1297104307.htm, closingTimeText=closes in 3 hrs 15 mins, bidInfo=, priceInfo=$15.00];

@@ -1,3 +1,0 @@
-LatestListing [title=Cartoon U Shaped neck travel pillow New. Pay now., link=/travel-events-activities/other/auction-1296767408.htm, closingTimeText=closes in 3 hrs 3 mins, bidInfo=, priceInfo=$9.99];
-LatestListing [title=Short term accomodation East Akld New., link=/travel-events-activities/holiday-packages/new-zealand/auction-1296771408.htm, closingTimeText=closes in 3 hrs 9 mins, bidInfo=, priceInfo=$480.00];
-LatestListing [title=Travel Passport Wallet Organizer Pink New. Pay now., link=/travel-events-activities/other/auction-1297458665.htm, closingTimeText=closes in 3 hrs 10 mins, bidInfo=, priceInfo=];

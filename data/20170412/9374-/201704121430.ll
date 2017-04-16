@@ -1,4 +1,0 @@
-LatestListing [title=2 x Movie Tickets (Ghost in the Shell) New., link=/travel-events-activities/event-tickets/other/auction-1296839357.htm, closingTimeText=closes in 6 mins, bidInfo=3 bids, priceInfo=$11.50];
-LatestListing [title=Nannini Italian Reading Glasses in a 1.5 or 2.5 New. Free Shipping., link=/travel-events-activities/activities/auction-1296840353.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$35.00];
-LatestListing [title=short term accommodation available in Rotorua, link=/travel-events-activities/accommodation/new-zealand/rotorua/auction-1296873624.htm, closingTimeText=closes in 1 hr 8 mins, bidInfo=, priceInfo=$50.00];
-LatestListing [title=1 term of expertly led Auckland city drama classes Free Shipping., link=/travel-events-activities/other/auction-1296902994.htm, closingTimeText=closes in 2 hrs 2 mins, bidInfo=, priceInfo=$255.00];

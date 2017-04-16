@@ -1,2 +1,0 @@
-LatestListing [title=Visit Waikaremoana- AA's 101 Must-Do's Pay now., link=/travel-events-activities/accommodation/new-zealand/hawkes-bay/auction-1300302749.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$130.00];
-LatestListing [title=Gold Coast - 2 Brm Ocean Views 5 Star H Resort Free Shipping., link=/travel-events-activities/accommodation/international/auction-1296959078.htm, closingTimeText=closes in 2 hrs 10 mins, bidInfo=, priceInfo=$220.00];

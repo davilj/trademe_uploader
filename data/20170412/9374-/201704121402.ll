@@ -1,5 +1,0 @@
-LatestListing [title=Bed & Breakfast (King) Wgtn Accommodation Lions Rugby Tour 2017 Pay now. Free Shipping., link=/travel-events-activities/accommodation/new-zealand/wellington/auction-1296825384.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$120.00];
-LatestListing [title=Bed & Breakfast (Queen) Wgtn Accommodation Lions Rugby Tour 2017 Pay now. Free Shipping., link=/travel-events-activities/accommodation/new-zealand/wellington/auction-1296825913.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$120.00];
-LatestListing [title=Dixie Chicks (Napier) New. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296928745.htm, closingTimeText=closes in 3 hrs 10 mins, bidInfo=, priceInfo=$70.00];
-LatestListing [title=1 X Santana & Dobbie Brothers Concert Ticket Auckland Pay now., link=/travel-events-activities/event-tickets/concerts/auction-1298355462.htm, closingTimeText=closes in 3 hrs 12 mins, bidInfo=1 bid, priceInfo=$150.00];
-LatestListing [title=Inflatable travel pillow New., link=/travel-events-activities/other/auction-1296932559.htm, closingTimeText=closes in 3 hrs 14 mins, bidInfo=, priceInfo=$3.00];

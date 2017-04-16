@@ -1,2 +1,0 @@
-LatestListing [title=Passport Wallet Handy Travel Holder - Blue New. Pay now., link=/travel-events-activities/other/auction-1296851761.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
-LatestListing [title=Dixie Chicks (Napier) New. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296928745.htm, closingTimeText=closes in 2 hrs 14 mins, bidInfo=, priceInfo=$70.00];

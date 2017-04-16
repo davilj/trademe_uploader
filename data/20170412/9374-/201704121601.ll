@@ -1,4 +1,0 @@
-LatestListing [title=Dixie Chicks (Napier) New. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296928745.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=$70.00];
-LatestListing [title=1 X Santana & Dobbie Brothers Concert Ticket Auckland Pay now., link=/travel-events-activities/event-tickets/concerts/auction-1298355462.htm, closingTimeText=closes in 1 hr 13 mins, bidInfo=1 bid, priceInfo=$150.00];
-LatestListing [title=Inflatable travel pillow New., link=/travel-events-activities/other/auction-1296932559.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$3.00];
-LatestListing [title=Club Paihia 2 bdrm Apt 8 - 15 July 2017 Free Shipping., link=/travel-events-activities/accommodation/new-zealand/northland/auction-1297005860.htm, closingTimeText=closes in 3 hrs 1 min, bidInfo=, priceInfo=$999.00];

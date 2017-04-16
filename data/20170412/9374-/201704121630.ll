@@ -1,2 +1,0 @@
-LatestListing [title=1 term of expertly led Auckland city drama classes Free Shipping., link=/travel-events-activities/other/auction-1296902994.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$255.00];
-LatestListing [title=Waikiki Studio /Free Parking & Wifi / Top Location, link=/travel-events-activities/accommodation/international/auction-1296988734.htm, closingTimeText=closes in 2 hrs 7 mins, bidInfo=, priceInfo=$157.00];

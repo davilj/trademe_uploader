@@ -1,5 +1,0 @@
-LatestListing [title=Entertainment Book Auckland 2016-2017 Pay now., link=/travel-events-activities/activities/auction-1296316884.htm, closingTimeText=closes in 3 mins, bidInfo=14 bids, priceInfo=$16.50];
-LatestListing [title=The Cat Lounge Gift Card New., link=/travel-events-activities/event-tickets/other/auction-1296325627.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=];
-LatestListing [title=Tash Sultana Wellington TWO tickets New. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296329437.htm, closingTimeText=closes in 15 mins, bidInfo=43 bids, priceInfo=$475.00];
-LatestListing [title=Blues vs Hurricanes tickets, link=/travel-events-activities/event-tickets/sports/auction-1299849642.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=$80.00];
-LatestListing [title=Wyndham Resort Denarau Island FIJI for 7 Nights Xmas 2017 Free Shipping., link=/travel-events-activities/accommodation/international/auction-1296457970.htm, closingTimeText=closes in 3 hrs 9 mins, bidInfo=, priceInfo=$2,745];

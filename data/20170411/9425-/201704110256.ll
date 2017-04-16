@@ -1,4 +1,0 @@
-LatestListing [title=Nutrience Natural Dog Food Turkey Chicken 13.6KG Best Before 12/2016 New. Pay now., link=/pets-animals/dogs/food/auction-1299335077.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=];
-LatestListing [title=Nutrience Dog Food Original Large Breed 13.6KG New. Pay now., link=/pets-animals/dogs/food/auction-1299335078.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=];
-LatestListing [title=Nutrience Dog Food Original Small Breed 2.5kg New. Pay now., link=/pets-animals/dogs/food/auction-1299335082.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=];
-LatestListing [title=Now Fresh Grain Free Large Breed Adult 11.34 kg New. Pay now. Free Shipping., link=/pets-animals/dogs/food/auction-1295819989.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=];

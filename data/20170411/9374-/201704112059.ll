@@ -1,6 +1,0 @@
-LatestListing [title=2 x STATUS QUO FRONT ROW + ACCOMODATION New. Pay now. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296354201.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$799.00];
-LatestListing [title=Travel Set Neck Pillow Eye Mask Ear Plu Pay now., link=/travel-events-activities/other/auction-1296361663.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$14.95];
-LatestListing [title=RED Sea to Summit Keychain Utility Bag New. Pay now., link=/travel-events-activities/other/auction-1296362039.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
-LatestListing [title=GOT7 Fanmeeting in Brisbane, Australia (1 x Silver Seated) New. Pay now. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296363526.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$215.00];
-LatestListing [title=Easter 4 tickets Blues Canes, Corporate box+car park, 2 rooms Motel, 15 April New. Free Shipping., link=/sports/rugby-league/other/auction-1301024458.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$1,000];
-LatestListing [title=Unique Design Rubber 'Dutch Duck' New. Pay now., link=/travel-events-activities/holiday-packages/international/auction-1296479832.htm, closingTimeText=closes in 3 hrs 14 mins, bidInfo=, priceInfo=$9.95];

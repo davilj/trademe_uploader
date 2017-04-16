@@ -1,5 +1,0 @@
-LatestListing [title=YOU:ARE ft Jauz, Snails & Slushii x2 tickets New. Pay now., link=/travel-events-activities/event-tickets/concerts/auction-1299436259.htm, closingTimeText=closes in 3 hrs 5 mins, bidInfo=, priceInfo=$120.00];
-LatestListing [title=YOU:ARE ft Jauz, Snails & Slushii x2 tickets New. Pay now., link=/travel-events-activities/event-tickets/concerts/auction-1299436438.htm, closingTimeText=closes in 3 hrs 6 mins, bidInfo=, priceInfo=$120.00];
-LatestListing [title=Travel Passport Wallet Organizer PU Leather Orange New. Pay now., link=/travel-events-activities/other/auction-1295924789.htm, closingTimeText=closes in 3 hrs 10 mins, bidInfo=, priceInfo=];
-LatestListing [title=FIJI HOLIDAY : ULTIQA @ Fiji Palms Pay now. Free Shipping., link=/travel-events-activities/accommodation/international/auction-1295924806.htm, closingTimeText=closes in 3 hrs 10 mins, bidInfo=, priceInfo=$1,000];
-LatestListing [title=Passport Holder, Boarding Pass &Ticket Wallet New. Pay now., link=/travel-events-activities/other/auction-1295926695.htm, closingTimeText=closes in 3 hrs 14 mins, bidInfo=, priceInfo=$15.00];

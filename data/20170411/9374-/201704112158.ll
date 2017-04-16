@@ -1,4 +1,0 @@
-LatestListing [title=Key Finder/ Key Ring - Dress New., link=/travel-events-activities/other/auction-1299869014.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$12.99];
-LatestListing [title=Key Finder/ Key Ring - Purse New., link=/travel-events-activities/other/auction-1299869002.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$12.99];
-LatestListing [title=Ahuriri beach front Free Shipping., link=/travel-events-activities/accommodation/new-zealand/hawkes-bay/auction-1294953974.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=, priceInfo=$900.00];
-LatestListing [title=Unique Design Rubber 'Dutch Duck' New. Pay now., link=/travel-events-activities/holiday-packages/international/auction-1296479832.htm, closingTimeText=closes in 2 hrs 15 mins, bidInfo=, priceInfo=$9.95];

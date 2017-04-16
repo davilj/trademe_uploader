@@ -1,3 +1,0 @@
-LatestListing [title=***BUS TICKET TO CHRISTCHURCH FROM DUNEDIN*** Free Shipping., link=/travel-events-activities/other/auction-1296283599.htm, closingTimeText=closes in 2 hrs 11 mins, bidInfo=, priceInfo=$15.00];
-LatestListing [title=Tash Sultana Wellington TWO tickets New. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296329437.htm, closingTimeText=closes in 3 hrs 3 mins, bidInfo=43 bids, priceInfo=$475.00];
-LatestListing [title=Travel Scratch Map - NEW - Never used, link=/travel-events-activities/other/auction-1299173253.htm, closingTimeText=closes in 3 hrs 6 mins, bidInfo=, priceInfo=$13.00];

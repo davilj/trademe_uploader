@@ -1,9 +1,0 @@
-LatestListing [title=Catwalk Glass Fitting Large Cat Small Dog Door New. Pay now., link=/pets-animals/cats/cat-doors/auction-1299347320.htm, closingTimeText=closes in 22 secs, bidInfo=, priceInfo=];
-LatestListing [title=Rabbit / Guinea Pig Nail Trimmers New. Pay now., link=/pets-animals/rabbits-guinea-pigs/other/auction-1295838072.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=];
-LatestListing [title=Avi One Parrot Toy Rope With Beads & Leather 28cm New. Pay now., link=/pets-animals/birds/cages-accessories/auction-1299369236.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=];
-LatestListing [title=Genuine KONG Puppy Flyer New. Pay now., link=/pets-animals/dogs/toys-treats/auction-1295838966.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=$20.00];
-LatestListing [title=Dog Pet Bed with Cushion Quality Soft Warm - Small New. Pay now., link=/pets-animals/cats/beds-baskets/auction-1298046954.htm, closingTimeText=closes in 2 hrs 3 mins, bidInfo=, priceInfo=$19.00];
-LatestListing [title=Pet Play Pen - SMALL New. Pay now., link=/pets-animals/rabbits-guinea-pigs/other/auction-1295850750.htm, closingTimeText=closes in 2 hrs 4 mins, bidInfo=, priceInfo=$33.99];
-LatestListing [title=DOG BED - TRIXIE CHARLY XTRA LARGE New. Pay now. Free Shipping., link=/pets-animals/dogs/beds-baskets/auction-1295851527.htm, closingTimeText=closes in 2 hrs 8 mins, bidInfo=, priceInfo=$149.50];
-LatestListing [title=Blue Planet Bubbilo 3 way connector 2 Pack New., link=/pets-animals/fish/pumps-filters/auction-1295851841.htm, closingTimeText=closes in 2 hrs 10 mins, bidInfo=, priceInfo=$2.90];
-LatestListing [title=ULTRA HIGH ENERGY NZ'S OWN PREMIUM 20kg New. Pay now., link=/pets-animals/dogs/food/auction-1295851883.htm, closingTimeText=closes in 2 hrs 10 mins, bidInfo=, priceInfo=$125.00];

@@ -1,5 +1,0 @@
-LatestListing [title=Travel Neck Pillow Kids Childrens New. Pay now., link=/travel-events-activities/other/auction-1296018394.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$18.95];
-LatestListing [title=Timeshare - Club Pahia (Northland) Free Shipping., link=/travel-events-activities/accommodation/new-zealand/northland/auction-1296023088.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=$1.00];
-LatestListing [title=4x Password Travel Luggage Suitcase Secure Lock Safe Nylon Packing Belt Strap New. Pay now. Free Shipping., link=/travel-events-activities/other/auction-1296083211.htm, closingTimeText=closes in 3 hrs 7 mins, bidInfo=, priceInfo=];
-LatestListing [title=Flight Support Cushion BAMBOO MEMORY FOAM TRAVEL PILLOW-Black New. Pay now. Free Shipping., link=/travel-events-activities/other/auction-1296083422.htm, closingTimeText=closes in 3 hrs 7 mins, bidInfo=, priceInfo=];
-LatestListing [title=Flight Support Cushion BAMBOO MEMORY FOAM TRAVEL PILLOW-Blue New. Pay now. Free Shipping., link=/travel-events-activities/other/auction-1296083502.htm, closingTimeText=closes in 3 hrs 7 mins, bidInfo=, priceInfo=];

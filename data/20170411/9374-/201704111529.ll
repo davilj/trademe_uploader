@@ -1,4 +1,0 @@
-LatestListing [title=Our House : You Are ft Jauz, Snails, Slushii (2x tickets) New., link=/travel-events-activities/event-tickets/concerts/auction-1298987080.htm, closingTimeText=closes in 56 secs, bidInfo=1 bid, priceInfo=$100.00];
-LatestListing [title=Suitcase, link=/travel-events-activities/other/auction-1296164603.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=$30.00];
-LatestListing [title=TOUR OF NEW ZEALAND - Two Week Tour New. Pay now. Free Shipping., link=/travel-events-activities/holiday-packages/new-zealand/auction-1296170054.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$4,405];
-LatestListing [title=TOUR OF NEW ZEALAND - 3-Week Tour New. Pay now. Free Shipping., link=/travel-events-activities/holiday-packages/new-zealand/auction-1296170232.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$5,920];

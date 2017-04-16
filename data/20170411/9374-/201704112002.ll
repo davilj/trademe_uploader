@@ -1,5 +1,0 @@
-LatestListing [title=Travel Set Neck Pillow Eye Mask Ear Plu Pay now., link=/travel-events-activities/other/auction-1296361663.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$14.95];
-LatestListing [title=RED Sea to Summit Keychain Utility Bag New. Pay now., link=/travel-events-activities/other/auction-1296362039.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
-LatestListing [title=GOT7 Fanmeeting in Brisbane, Australia (1 x Silver Seated) New. Pay now. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296363526.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=$215.00];
-LatestListing [title=Easter 4 tickets Blues Canes, Corporate box+car park, 2 rooms Motel, 15 April New. Free Shipping., link=/sports/rugby-league/other/auction-1301024458.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$1,000];
-LatestListing [title=YOU:ARE ft Jauz, Snails & Slushii x 1 ticket New. Pay now., link=/travel-events-activities/event-tickets/concerts/auction-1299910249.htm, closingTimeText=closes in 3 hrs 15 mins, bidInfo=, priceInfo=$60.00];

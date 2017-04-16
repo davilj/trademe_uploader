@@ -1,2 +1,0 @@
-LatestListing [title=Easter 4 tickets Blues Canes, Corporate box+car park, 2 rooms Motel, 15 April New. Free Shipping., link=/sports/rugby-league/other/auction-1301024458.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$1,000];
-LatestListing [title=Unique Design Rubber 'Dutch Duck' New. Pay now., link=/travel-events-activities/holiday-packages/international/auction-1296479832.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$9.95];

@@ -1,6 +1,0 @@
-LatestListing [title=Luggage Strap Adjustable Suitcase Security TSA Number Lock With Name Tag New. Pay now., link=/travel-events-activities/other/auction-1296118546.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
-LatestListing [title=Luggage Strap With Name Tag Adjustable Suitcase Baggage Lock TSA 3 Digits Number New. Pay now., link=/travel-events-activities/other/auction-1296118597.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
-LatestListing [title=Our House : You Are ft Jauz, Snails, Slushii (2x tickets) New., link=/travel-events-activities/event-tickets/concerts/auction-1298987080.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$100.00];
-LatestListing [title=CYNDI LAUPER & BLONDIE Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296226907.htm, closingTimeText=closes in 3 hrs 2 mins, bidInfo=1 bid, priceInfo=$90.00];
-LatestListing [title=Rooftop tent 3 ppl - 190cm x 210cm, link=/travel-events-activities/other/auction-1296228235.htm, closingTimeText=closes in 3 hrs 4 mins, bidInfo=6 bids, priceInfo=$480.00];
-LatestListing [title=FIJI HOLIDAY DENARAU ISLAND Pay now. Free Shipping., link=/travel-events-activities/accommodation/international/auction-1296233356.htm, closingTimeText=closes in 3 hrs 12 mins, bidInfo=, priceInfo=$1,600];

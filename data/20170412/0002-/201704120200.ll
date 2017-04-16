@@ -1,0 +1,13 @@
+LatestListing [title=Samsung Galaxy Tab E 9.6 Case New. Pay now., link=/computers/tablets-ebook-readers/tablet-accessories/cases-covers/auction-1296517164.htm, closingTimeText=closes in 7 secs, bidInfo=, priceInfo=$15.95];
+LatestListing [title=Sport Wireless Bluetooth Headset New. Pay now., link=/computers/peripherals/headsets-microphones/headsets/auction-1296518113.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=Hard Case Cover for Mac New. Pay now., link=/computers/laptops/bags-carry-cases/other/auction-1296518110.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=300mbps USB wifi adapter black New. Pay now., link=/computers/networking-modems/wireless-networking/other/auction-1296518106.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=Metal Key USB Flash Drive New. Pay now., link=/computers/external-storage/usb-memory-keys/auction-1296518109.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=Magic Pad - Cage for iPad Air New. Pay now., link=/computers/tablets-ebook-readers/ipad-accessories/cases-bags-protectors/auction-1296519155.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Apple Macbook Pro Charger Magsafe 85W - T Shape New. Pay now., link=/computers/laptops/power-adaptors/apple/auction-1296519265.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=Mini DP to HDMI Adapter Cable For Apple Mac 1.8m New. Pay now., link=/computers/cables-adaptors/monitor/auction-1296520986.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=HP Dock Connector to VGA/Ethernet Adapter, link=/computers/laptops/other/auction-1296521273.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$35.00];
+LatestListing [title=IBM Seagate 146GB 10K 2.5" SAS 6GB/s Hot Swap Pay now., link=/computers/servers/server-components/auction-1296521859.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$60.00];
+LatestListing [title=Lenovo ThinkPad T540P I7-4600M 3.6Ghz 8GB Ram 500GB 7200RPM HDD WIN7/8.1/10 Pro New. Pay now., link=/computers/laptops/laptops/lenovo/auction-1296522087.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$1,799];
+LatestListing [title=HP STARWARS SPECIAL Edition I7 8GB 2TB GT940M New. Pay now., link=/computers/laptops/laptops/hp/auction-1296522085.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];
+LatestListing [title=HP ENVY STAR WARS Special Edition Intel Skylake-i7 8GB 2TB GT940M 15.6" 1080 IPS New. Pay now., link=/computers/laptops/laptops/hp/auction-1296522086.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];

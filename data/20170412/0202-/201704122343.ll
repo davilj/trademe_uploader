@@ -1,0 +1,10 @@
+LatestListing [title=Pokemon 20th Anniversary Japanese CP6 Holos, link=/gaming/trading-cards/pokemon/auction-1297214362.htm, closingTimeText=closes in 28 secs, bidInfo=, priceInfo=$10.00];
+LatestListing [title=PS Vita Slim Silicone Case New. Pay now., link=/gaming/playstation-vita/accessories/auction-1299923013.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=PS4 + Control + Mafia3, link=/gaming/playstation-4/consoles/auction-1301047634.htm, closingTimeText=closes in 1 min, bidInfo=1 bid, priceInfo=$270.00];
+LatestListing [title=Mortuary Mire - Magic Pay now., link=/gaming/trading-cards/magic/individual-cards/auction-1297216466.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Wizards of the Coast Magic the Gathering - Commander - Singles Windfall (U) (NM) Pay now., link=/gaming/trading-cards/magic/individual-cards/auction-1297216950.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Crackdown, link=/gaming/xbox-360/games/shooter/auction-1297218125.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=Unreal II - The Awakening (For Windows) Pay now., link=/gaming/pc-games/action-adventure/auction-1297218155.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$14.95];
+LatestListing [title=Broken Sword Trilogy - for Windows. Pay now., link=/gaming/pc-games/action-adventure/auction-1297218339.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$19.95];
+LatestListing [title=HDMI 2m 1.4v Cable Gold Plated Premium HDTV 3D New. Pay now., link=/gaming/xbox-360/accessories/cables-leads/auction-1297218978.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$3.95];
+LatestListing [title=XBOX 360 WIRELESS CHARGER CABLE New. Pay now., link=/gaming/xbox-360/accessories/cables-leads/auction-1299286089.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=$2.15];

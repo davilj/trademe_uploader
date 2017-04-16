@@ -1,0 +1,9 @@
+LatestListing [title=Dog brush ~ SELF CLEAN New. Pay now., link=/pets-animals/dogs/other/auction-1296545208.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Bird Treat Natures Mineral Block Orange New. Pay now., link=/pets-animals/birds/other/auction-1296549663.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=Aqua One Sponge Pad 4S For AR850 (2pk) New. Pay now., link=/pets-animals/fish/pumps-filters/auction-1296549666.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=Yours Droolly Shear Magic Dog Scissor Styling New. Pay now., link=/pets-animals/dogs/grooming/auction-1296549669.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=Aqua One Infinity Fish Air Pump AP-750 New. Pay now., link=/pets-animals/fish/pumps-filters/auction-1296549667.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=Small Dog Bowl Cat Food Stainless Steel DIGIFLEX New. Pay now. Free Shipping., link=/pets-animals/dogs/bowls-feeders/auction-1296561689.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Green Seahorse Ornament for Fish Tank TRIXES New. Pay now. Free Shipping., link=/pets-animals/fish/decorations/auction-1296561957.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Small Dog/Cat Bed Blue with Polka Dots DIGIFLEX New. Pay now. Free Shipping., link=/pets-animals/dogs/other/auction-1296562287.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Large reflective dog collar, red New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1300002130.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=$5.95];

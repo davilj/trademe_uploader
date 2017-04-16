@@ -1,0 +1,17 @@
+LatestListing [title=Wii Sports Canoeing Paddle Attachment New. Pay now., link=/gaming/nintendo-wii/accessories/auction-1296568146.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$5.00];
+LatestListing [title=Wizards of the Coast Magic the Gathering - Visions - Singles Necromancy (U) (NM) Pay now., link=/gaming/trading-cards/magic/individual-cards/auction-1296569258.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=sesame Street counting carnival wii, link=/gaming/nintendo-wii/games/auction-1296582430.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=Oath of Chandra - Magic Pay now., link=/gaming/trading-cards/magic/individual-cards/auction-1296582912.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Sega Mega Drive 1 Megadrive 1 Master System 1 AV Audio Video cable cord lead NEW New. Pay now., link=/gaming/sega/megadrive/auction-1296583866.htm, closingTimeText=closes in 1 hr 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=WII WHEEL FOR NINTENDO WII C0018 New. Pay now., link=/gaming/nintendo-wii/accessories/auction-1300042729.htm, closingTimeText=closes in 2 hrs 5 mins, bidInfo=, priceInfo=$7.99];
+LatestListing [title=Legend of Kay Anniversary PS4 New. Pay now., link=/gaming/playstation-4/games/auction-1296605074.htm, closingTimeText=closes in 2 hrs 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Deception IV The Nightmare Princess PS4 New. Pay now., link=/gaming/playstation-4/games/auction-1296605133.htm, closingTimeText=closes in 2 hrs 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Handled 4.5mm Nintendo NES SNES N64 Gamecube game security bit tool FAST SHIP New. Pay now., link=/gaming/other-nintendo/n64/accessories/auction-1296605632.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=PS1 WRC: FIA World Rally Championship Pay now., link=/gaming/playstation/games/driving-racing/auction-1296606186.htm, closingTimeText=closes in 2 hrs 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=5.00 Multiple Classic Gaming Titles, link=/gaming/pc-games/other/auction-1296606669.htm, closingTimeText=closes in 2 hrs 11 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=G.I. Joe: The Rise Of Cobra XBOX 360 Pay now., link=/gaming/xbox-360/games/action-adventure/auction-1296606953.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=***PS1 DUKE NUKEM 3D REALMS no coverslip Pay now., link=/gaming/playstation/games/shooter/auction-1296607277.htm, closingTimeText=closes in 2 hrs 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=TMNT Teenage Mutant Ninja Turtles DS Pay now., link=/gaming/nintendo-ds/games/auction-1296607452.htm, closingTimeText=closes in 2 hrs 13 mins, bidInfo=, priceInfo=$14.00];
+LatestListing [title=Red Faction Guerrilla XBOX 360 Pay now., link=/gaming/xbox-360/games/shooter/auction-1296607487.htm, closingTimeText=closes in 2 hrs 13 mins, bidInfo=, priceInfo=$4.00];
+LatestListing [title=***PS1 Cool Boarders 3 *PLATINUM* nm Pay now., link=/gaming/playstation/games/sports/auction-1296607801.htm, closingTimeText=closes in 2 hrs 14 mins, bidInfo=, priceInfo=];
+LatestListing [title=Duke Nukem Forever XBOX 360 Pay now., link=/gaming/xbox-360/games/action-adventure/auction-1296607859.htm, closingTimeText=closes in 2 hrs 14 mins, bidInfo=, priceInfo=$7.00];

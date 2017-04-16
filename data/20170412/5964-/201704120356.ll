@@ -1,0 +1,4 @@
+LatestListing [title=Digital Vernier Caliper 6" LCD 150mm Carbon Fiber Plastic Electronic Calipers New. Pay now., link=/building-renovation/tools/hand-tools/measuring/auction-1296552721.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=50mm External Circlip - 25Pk New. Pay now. Free Shipping., link=/building-renovation/building-supplies/fixing-fastening/other/auction-1296553546.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$112.08];
+LatestListing [title=Makita BL1430 BDF343 14.4V 4.0Ah 4000mAh BL1415 BATTERY New. Pay now., link=/building-renovation/tools/power-tools/batteries-chargers/auction-1296553825.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$65.99];
+LatestListing [title=Counter Balancer & Clutch Hub Sockets 20mm Depth New. Pay now. Free Shipping., link=/building-renovation/tools/hand-tools/other/auction-1296555319.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$51.72];

@@ -1,0 +1,3 @@
+LatestListing [title=FORDS CHINA, FLORAL JUG, Rd No. 440634. Pay now., link=/pottery-glass/porcelain-pottery/other-british-manufacturers/jugs/auction-1296203285.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$9.50];
+LatestListing [title=Shell Condiment Set Carlton Ware Pay now., link=/pottery-glass/porcelain-pottery/carlton-ware/salt-pepper-condiment-sets/auction-1296204158.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$30.00];
+LatestListing [title=Limeoges Hand Painted Gold Frame. Pay now., link=/pottery-glass/porcelain-pottery/limoges/auction-1296206052.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$15.00];

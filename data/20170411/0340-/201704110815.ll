@@ -1,0 +1,6 @@
+LatestListing [title=Webb Corbett Crystal Posy Bowl, link=/pottery-glass/glass-crystal/vases/auction-1299429282.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$8.00];
+LatestListing [title=Three Serving Plates Pay now., link=/pottery-glass/porcelain-pottery/other-british-manufacturers/plates-platters/auction-1295912490.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$28.00];
+LatestListing [title=Beswick Beatrix Potter's Miss Moppet figurine Pay now., link=/pottery-glass/porcelain-pottery/beswick/beatrix-potter-figurines/auction-1295919345.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$60.00];
+LatestListing [title=Glass Tumbler - 450ml Benidorn Beer Mug Glasses x6 New. Pay now., link=/pottery-glass/glass-crystal/glasses/other/auction-1295919524.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$23.00];
+LatestListing [title=Glass Tumbler - 450ml Benidorn Beer Mug Glasses x6 New. Pay now., link=/pottery-glass/glass-crystal/glasses/other/auction-1295919528.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$23.00];
+LatestListing [title=Glass Tumbler - 450ml Benidorn Beer Mug Glasses x6 New. Pay now., link=/pottery-glass/glass-crystal/glasses/other/auction-1295919534.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$23.00];

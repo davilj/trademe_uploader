@@ -1,0 +1,2 @@
+LatestListing [title=Decorative blue glass bottle, 12cm tall (E) New. Pay now., link=/pottery-glass/glass-crystal/decanters-bottles/auction-1299919220.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$6.95];
+LatestListing [title=Royal Winton Lustre Sugar bowl and Jug, link=/pottery-glass/porcelain-pottery/royal-winton/plates/auction-1296511892.htm, closingTimeText=closes in 2 hrs 10 mins, bidInfo=, priceInfo=$15.00];

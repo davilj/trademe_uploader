@@ -1,0 +1,15 @@
+LatestListing [title=Cat Tower Exercise Play Gym Scratch Post 74cm High New. Pay now., link=/pets-animals/cats/beds-baskets/auction-1297326701.htm, closingTimeText=closes in 6 secs, bidInfo=, priceInfo=$45.00];
+LatestListing [title=Hunts Remedies 1KG Devils Claw for Horses New., link=/pets-animals/other/auction-1295883770.htm, closingTimeText=closes in 15 secs, bidInfo=, priceInfo=$55.50];
+LatestListing [title=50 X 40+ hour heat pack for shipping fish New. Pay now., link=/pets-animals/fish/other/auction-1295884237.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$60.00];
+LatestListing [title=Rescue Aid Remedy for Dogs /Cats x2 # New., link=/pets-animals/dogs/health-care/auction-1295885493.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$19.50];
+LatestListing [title=Nesting Material for canary and finches. New., link=/pets-animals/dogs/bowls-feeders/auction-1295886453.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Trouble & Trix Scooter 2 Tier Cat Scratcher with Cave, link=/pets-animals/cats/toys-treats/auction-1295887281.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$130.00];
+LatestListing [title=Cat food, link=/pets-animals/cats/other/auction-1297331776.htm, closingTimeText=closes in 8 mins, bidInfo=33 bids, priceInfo=$36.00];
+LatestListing [title=Portable Pet House with Roof - Beige New. Pay now., link=/pets-animals/dogs/kennels-crates-pens/other/auction-1297332869.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$49.00];
+LatestListing [title=Dog Vest / Overalls Denim with Rip Pockets - Large New. Pay now., link=/pets-animals/dogs/dog-apparel/auction-1297332872.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$14.00];
+LatestListing [title=Portable Pet House with Roof - Blue New. Pay now., link=/pets-animals/dogs/kennels-crates-pens/other/auction-1297332881.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$49.00];
+LatestListing [title=Portable Pet House with Roof - Green New. Pay now., link=/pets-animals/dogs/kennels-crates-pens/other/auction-1297332894.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$49.00];
+LatestListing [title=Dog Stairs Steps New. Pay now., link=/pets-animals/dogs/other/auction-1299410927.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$54.95];
+LatestListing [title=Bird Cage Avairy Stainless Steel on Wheels White M New. Pay now., link=/pets-animals/birds/cages-accessories/auction-1299410932.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$92.95];
+LatestListing [title=Pet Feeder & Waterer (X 2) Automatic Dogs Cats New. Pay now., link=/pets-animals/dogs/bowls-feeders/auction-1299410941.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$18.95];
+LatestListing [title=Cat Toy Scratching Board, "SPECIAL" New. Pay now., link=/pets-animals/cats/toys-treats/auction-1295890620.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$5.90];

@@ -1,0 +1,6 @@
+LatestListing [title=Triple USB Car charger - Silver New. Pay now., link=/mobile-phones/accessories/chargers/car-chargers/auction-1295828571.htm, closingTimeText=closes in 30 secs, bidInfo=, priceInfo=];
+LatestListing [title=Incipio Frequency Case For Samsung Galaxy Light TPU Jelly Textured Cover Purple New. Pay now., link=/mobile-phones/accessories/cases-covers/other/auction-1295828587.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=iPhone 7 Armband w/ Back Case New. Pay now., link=/mobile-phones/accessories/cases-covers/iphone/auction-1295829149.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$14.99];
+LatestListing [title=iPhone 5S 64GB Weekly Special!!!! Pay now. Free Shipping., link=/mobile-phones/mobile-phones/iphone/iphone-5s/auction-1293809272.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=Samsung Galaxy J7 J710FD 2016 Dual SIM - Black | Brand New Unlocked New. Pay now., link=/mobile-phones/mobile-phones/samsung/other-samsung-phones/auction-1297249051.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=];
+LatestListing [title=iPhone 5 case slim crystal see thru New. Pay now., link=/mobile-phones/accessories/cases-covers/iphone/auction-1295839406.htm, closingTimeText=closes in 1 hr 1 min, bidInfo=, priceInfo=$11.00];

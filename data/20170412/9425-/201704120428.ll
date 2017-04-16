@@ -1,0 +1,12 @@
+LatestListing [title=Small Dog Bowl Cat Food Stainless Steel DIGIFLEX New. Pay now. Free Shipping., link=/pets-animals/dogs/bowls-feeders/auction-1296561689.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Green Seahorse Ornament for Fish Tank TRIXES New. Pay now. Free Shipping., link=/pets-animals/fish/decorations/auction-1296561957.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Small Dog/Cat Bed Blue with Polka Dots DIGIFLEX New. Pay now. Free Shipping., link=/pets-animals/dogs/other/auction-1296562287.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Large reflective dog collar, red New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1300002130.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$5.95];
+LatestListing [title=AVI ONE BIRD CAGE STAND FOR 448/450 BIRD CAGE New. Pay now., link=/pets-animals/birds/cages-accessories/auction-1300017171.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=EZYDOG Checkmate Dog Collar Medium Candy New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1300017167.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=FLEXI CLASSIC CORD RETRACTABLE DOG LEASH 5M SMALL New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1300017170.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Hartz GROOMER'S BEST Puppy Dog Shampoo 532ml New. Pay now., link=/pets-animals/dogs/grooming/auction-1300017172.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=KONG Liver Easy Dog Treat 226gm New. Pay now., link=/pets-animals/dogs/toys-treats/auction-1300017173.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=JW Insight - Millet Spray Holder For Bird New. Pay now., link=/pets-animals/birds/cages-accessories/auction-1300019024.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=];
+LatestListing [title=Aqua One PL 24W Sunlight Tube Aquarium Light New. Pay now., link=/pets-animals/fish/lights-lamps/auction-1300019026.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=];
+LatestListing [title=AVI ONE BIRD CAGE - 448 SQUARE OPEN TOP New. Pay now., link=/pets-animals/birds/cages-accessories/auction-1300019025.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=];

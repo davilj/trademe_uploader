@@ -1,0 +1,6 @@
+LatestListing [title=L Large Motorcycle Waterproof Outdoor Vented Motor Bike Scooter Dust Rain Cover New. Pay now. Free Shipping., link=/travel-events-activities/other/auction-1296220669.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Classic holidays membership (22 years) Free Shipping., link=/travel-events-activities/other/auction-1296260718.htm, closingTimeText=closes in 1 hr 8 mins, bidInfo=, priceInfo=$9,250];
+LatestListing [title=Travel Set Neck Pillow Eye Mask Ear Plu Pay now., link=/travel-events-activities/other/auction-1296361663.htm, closingTimeText=closes in 3 hrs 4 mins, bidInfo=, priceInfo=$14.95];
+LatestListing [title=RED Sea to Summit Keychain Utility Bag New. Pay now., link=/travel-events-activities/other/auction-1296362039.htm, closingTimeText=closes in 3 hrs 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=GOT7 Fanmeeting in Brisbane, Australia (1 x Silver Seated) New. Pay now. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296363526.htm, closingTimeText=closes in 3 hrs 6 mins, bidInfo=, priceInfo=$215.00];
+LatestListing [title=Luggage Strap Adjustable Suitcase Lock Belt With Name Tag TSA Number Lock New. Pay now., link=/travel-events-activities/other/auction-1297121691.htm, closingTimeText=closes in 3 hrs 14 mins, bidInfo=, priceInfo=];

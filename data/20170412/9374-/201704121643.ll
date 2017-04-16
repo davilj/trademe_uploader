@@ -1,0 +1,3 @@
+LatestListing [title=Gold Coast - 2 Brm Ocean Views 5 Star H Resort Free Shipping., link=/travel-events-activities/accommodation/international/auction-1296959078.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=$220.00];
+LatestListing [title=Jethro Tull ASB Auckland Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1297041178.htm, closingTimeText=closes in 3 hrs 9 mins, bidInfo=1 bid, priceInfo=$200.00];
+LatestListing [title=Auto Aid Car Window Breaker Handle Flashlight Emergency Cane Hammer Belt Cutter New. Pay now. Free Shipping., link=/travel-events-activities/other/auction-1297042584.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=];

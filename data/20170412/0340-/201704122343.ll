@@ -1,0 +1,1 @@
+LatestListing [title=Noritake Linfield bread plates and serving bowl, link=/pottery-glass/porcelain-pottery/noritake/auction-1297214977.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$49.00];

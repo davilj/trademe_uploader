@@ -1,0 +1,6 @@
+LatestListing [title={XBOX360} SBK Generations Pay now., link=/gaming/xbox-360/games/driving-racing/auction-1295785855.htm, closingTimeText=closes in 12 secs, bidInfo=, priceInfo=$35.00];
+LatestListing [title=PS2 25 to Life Pay now., link=/gaming/playstation-2/games/action-adventure/auction-1297974228.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=The Walking Dead Season Two (PC) Brand New New. Pay now., link=/gaming/pc-games/action-adventure/auction-1295791521.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$39.99];
+LatestListing [title=Nintendo 2DS Screen Protectors New., link=/gaming/nintendo-3ds/accessories/auction-1295818490.htm, closingTimeText=closes in 2 hrs 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Wizards of the Coast Magic the Gathering - Vanguard - Singles Rofellos (EX) Pay now., link=/gaming/trading-cards/magic/individual-cards/auction-1295819270.htm, closingTimeText=closes in 2 hrs 8 mins, bidInfo=, priceInfo=];
+LatestListing [title=Wii Sports Canoeing Paddle Attachment New. Pay now., link=/gaming/nintendo-wii/accessories/auction-1296568146.htm, closingTimeText=closes in 3 hrs 15 mins, bidInfo=, priceInfo=$5.00];

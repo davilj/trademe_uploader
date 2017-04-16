@@ -1,0 +1,17 @@
+LatestListing [title=From The Vault- Lore New., link=/gaming/trading-cards/magic/sealed-packs-boxes/auction-1296553307.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$140.00];
+LatestListing [title=Wii Remote - Venom V-mote And V-chuk Play Pack - New. Pay now. Free Shipping., link=/gaming/nintendo-ds/accessories/other/auction-1296554183.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=];
+LatestListing [title=PS4 Controller New. Pay now., link=/gaming/playstation-4/accessories/auction-1296566472.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$69.95];
+LatestListing [title=Nintendo 3DS Game Bundle Pack in White Gaming Other Accessories New. Pay now., link=/gaming/playstation/accessories/other/auction-1296567137.htm, closingTimeText=closes in 1 hr 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=Screwdriver for Nintendo 64 NES Gameboy 3.8 4.5mm New. Pay now., link=/gaming/other-nintendo/n64/accessories/auction-1296567255.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=];
+LatestListing [title=3.8mm 4.5mm security bit gamebit nes nintendo n64 New. Pay now., link=/gaming/other-nintendo/n64/accessories/auction-1296567260.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=];
+LatestListing [title=LIMITED EDITION Pokemon Evolution Tee Shirts - range of sizes and colours! New. Pay now., link=/gaming/trading-cards/pokemon/auction-1296579172.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=];
+LatestListing [title=XBOX 360 PS3 PS4 & PC Hifi Gaming Headset New. Pay now., link=/gaming/playstation-3/accessories/other/auction-1296579311.htm, closingTimeText=closes in 2 hrs 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=Watch Dogs 2, link=/gaming/playstation-4/games/auction-1296580503.htm, closingTimeText=closes in 2 hrs 15 mins, bidInfo=, priceInfo=$50.00];
+LatestListing [title=Call of duty Advance warfare, link=/gaming/playstation-4/games/auction-1296580507.htm, closingTimeText=closes in 2 hrs 15 mins, bidInfo=, priceInfo=$30.00];
+LatestListing [title=Wii HDMI Converter New. Pay now., link=/gaming/nintendo-wii/accessories/auction-1297290197.htm, closingTimeText=closes in 3 hrs 7 mins, bidInfo=, priceInfo=$25.90];
+LatestListing [title=Mario Kart Wii Wheel New. Pay now., link=/gaming/nintendo-wii/accessories/auction-1297290203.htm, closingTimeText=closes in 3 hrs 7 mins, bidInfo=, priceInfo=$7.99];
+LatestListing [title=2 x PS2 Wireless Controller New. Pay now., link=/gaming/playstation-2/accessories/controllers/auction-1300038131.htm, closingTimeText=closes in 3 hrs 8 mins, bidInfo=, priceInfo=$23.85];
+LatestListing [title=2 x PS2 Controller Wired New. Pay now., link=/gaming/playstation-2/accessories/controllers/auction-1300038143.htm, closingTimeText=closes in 3 hrs 8 mins, bidInfo=, priceInfo=$12.85];
+LatestListing [title=Two USB joysticks, link=/gaming/joysticks-gamepads/auction-1296598854.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=TK Play - Galapagos - Match three game, link=/gaming/pc-games/strategy-puzzle/auction-1296599556.htm, closingTimeText=closes in 3 hrs 12 mins, bidInfo=, priceInfo=$3.00];
+LatestListing [title={PS3} Brutal Legend Pay now., link=/gaming/playstation-3/games/action-adventure/auction-1296600817.htm, closingTimeText=closes in 3 hrs 15 mins, bidInfo=, priceInfo=$9.90];

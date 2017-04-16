@@ -1,0 +1,9 @@
+LatestListing [title=Nail Trimmers For Small Animals, Including Rabbits New., link=/pets-animals/rabbits-guinea-pigs/other/auction-1295782882.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$12.00];
+LatestListing [title=5x Demasoni breeding with fry, link=/pets-animals/fish/fish/tropical-fish/auction-1295783335.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$75.00];
+LatestListing [title=Cat Toy - 5oz Catnip Bubbles 5 Oz Oil Kitten New. Pay now. Free Shipping., link=/pets-animals/cats/other/auction-1295784362.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Trixie Catnip Spray 50ML New. Pay now., link=/pets-animals/cats/toys-treats/auction-1299317055.htm, closingTimeText=closes in 1 hr 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=RTY Enhanced Visibility / Viz Reflective Dog Vest New. Pay now. Free Shipping., link=/pets-animals/dogs/beds-baskets/auction-1295802334.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=];
+LatestListing [title=Catit Adjustable Cat Harness Jungle Stripes Large New. Pay now., link=/pets-animals/cats/other/auction-1296551880.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Catit Design Senses Scratch Pad Cat Toy New. Pay now., link=/pets-animals/cats/toys-treats/auction-1296551881.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Dogit Nylon Dog Collar 15.9mmx30-45cm Blue Medium New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1296551883.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Chewproof Rabbit Guinea Pigs Water Bottle 769ml New. Pay now., link=/pets-animals/rabbits-guinea-pigs/other/auction-1296551884.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=];

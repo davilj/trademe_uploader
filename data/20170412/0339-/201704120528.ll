@@ -1,0 +1,3 @@
+LatestListing [title=6 Wooden Clay Shaping Sculpting Tools TRIXES New. Pay now. Free Shipping., link=/art/carvings-sculpture/other/auction-1296588660.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=Caboo - 100% Bamboo and Sugarcane Bath Tissue - 12 Roll(s) New. Pay now., link=/art/art-supplies-equipment/paper-pads-canvas/auction-1296589216.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=];
+LatestListing [title=Seventh Generation - Paper Towels 100% Recycled White 2-Ply 140 Sheets - 2 New. Pay now., link=/art/art-supplies-equipment/paper-pads-canvas/auction-1296589438.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=];

@@ -1,0 +1,9 @@
+LatestListing [title=Pet One Dog Bowl Round Slow Down Feeder 300ml Melamine Pink New. Pay now., link=/pets-animals/dogs/bowls-feeders/auction-1296524289.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Roudybush Maintenance 227g packet. New. Pay now., link=/pets-animals/birds/other/auction-1296540981.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$4.00];
+LatestListing [title=Plastic Aquarium Simulation Aquatic Plant Ornament, 33cm, Red/Pink/Green New. Pay now., link=/pets-animals/fish/decorations/auction-1296541468.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Plastic Aquarium Simulation Aquatic Plant Ornament, 27cm, Green New. Pay now., link=/pets-animals/fish/decorations/auction-1296541467.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Digital LCD Thermometer for Aquarium New. Pay now., link=/pets-animals/fish/other/auction-1298646019.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Jackson Galaxy Cat Toy Mojo Maker Air Prey Wand New. Pay now., link=/pets-animals/cats/toys-treats/auction-1296542900.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=PET ONE DOG BOWL - ANTI ANT ANTI TIP STEEL 900ML New. Pay now., link=/pets-animals/dogs/bowls-feeders/auction-1296542904.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Aqua One Carbo Pad - Self Cut Filter Pad New. Pay now., link=/pets-animals/fish/pumps-filters/auction-1296542905.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Living World Wooden Bird Swing Small 7.5 x 10 cm New. Pay now., link=/pets-animals/birds/cages-accessories/auction-1296542906.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=];

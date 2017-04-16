@@ -1,0 +1,16 @@
+LatestListing [title=La Ci Darem La Mano - Mozart Pay now. Free Shipping., link=/music-instruments/sheet-music/classical/auction-1295867297.htm, closingTimeText=closes in 55 secs, bidInfo=, priceInfo=$7.50];
+LatestListing [title=TRUMPET - CORNET A TUNE A DAY Pay now. Free Shipping., link=/music-instruments/music-tuition/auction-1295862093.htm, closingTimeText=closes in 55 secs, bidInfo=, priceInfo=$6.00];
+LatestListing [title=Tonerider Humbucker Pickup: Rocksong Alnico II New. Pay now. Free Shipping., link=/music-instruments/instruments/guitar-bass/other/auction-1295846375.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=Adams Trumpet, link=/music-instruments/instruments/brass/trumpets-cornets/auction-1295847372.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$1,900];
+LatestListing [title=SALE ! Valeton - Aquaflow Vintage (Analog Chorus) New. Pay now., link=/music-instruments/instruments/guitar-bass/effects-units/auction-1295847505.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$70.00];
+LatestListing [title=SALE ! Valeton - Tube Refiner (Modern Overdrive) New. Pay now., link=/music-instruments/instruments/guitar-bass/effects-units/auction-1295847721.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$70.00];
+LatestListing [title=beatles help 1965 mono nzpmcm.1255, link=/music-instruments/vinyl/lps-33-rpm/pop/auction-1295848360.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=X 36 mixed Cassettes, link=/music-instruments/tapes/other/auction-1295848718.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$25.00];
+LatestListing [title=X 18 Mixed Various Cassettes, link=/music-instruments/tapes/other/auction-1295848819.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=X 11 Mixed Artists Cassettes, link=/music-instruments/tapes/other/auction-1295848896.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=X 12 Guitar Cassette Tapes, link=/music-instruments/tapes/other/auction-1295849006.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$25.00];
+LatestListing [title=beatles hard day night nz.pcsm.3058 1964, link=/music-instruments/vinyl/lps-33-rpm/pop/auction-1295849030.htm, closingTimeText=closes in 11 mins, bidInfo=1 bid, priceInfo=$20.00];
+LatestListing [title=X 13 Movie soundtrack and Tv program Cassette, link=/music-instruments/tapes/other/auction-1295849189.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=david bowie lets dance lp,australasia, link=/music-instruments/vinyl/lps-33-rpm/pop/auction-1295849657.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$35.00];
+LatestListing [title=EMINEM - RECOVERY (CD) New. Pay now., link=/music-instruments/cds/rap-hiphop/artist-df/auction-1295849713.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=];
+LatestListing [title=rare jay epai hold on tioght lp, link=/music-instruments/vinyl/lps-33-rpm/pop/auction-1295850047.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$75.00];

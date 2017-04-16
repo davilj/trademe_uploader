@@ -1,0 +1,7 @@
+LatestListing [title=Travel International Adaptor -The Only 1 U'll Need New. Pay now., link=/travel-events-activities/other/auction-1299410113.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=USA & Canada Tour 11 Days, link=/travel-events-activities/holiday-packages/international/auction-1296660055.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=$3,899];
+LatestListing [title=Room for rent Free Shipping., link=/travel-events-activities/accommodation/new-zealand/wellington/auction-1296691286.htm, closingTimeText=closes in 2 hrs 5 mins, bidInfo=, priceInfo=$150.00];
+LatestListing [title=A Romantic couple New. Free Shipping., link=/travel-events-activities/holiday-packages/new-zealand/auction-1296691290.htm, closingTimeText=closes in 2 hrs 5 mins, bidInfo=, priceInfo=$200.00];
+LatestListing [title=Thai massage gift voucher New. Free Shipping., link=/travel-events-activities/holiday-packages/new-zealand/auction-1296691292.htm, closingTimeText=closes in 2 hrs 5 mins, bidInfo=, priceInfo=$80.00];
+LatestListing [title=Thai massage gift voucher New. Free Shipping., link=/travel-events-activities/holiday-packages/new-zealand/auction-1296691998.htm, closingTimeText=closes in 2 hrs 6 mins, bidInfo=, priceInfo=$80.00];
+LatestListing [title=Queenstown Trail & Arrowtown Gibbston Valley Cycle Tours, link=/travel-events-activities/accommodation/new-zealand/queenstown/auction-1296694852.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$359.00];

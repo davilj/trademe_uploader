@@ -1,0 +1,1 @@
+LatestListing [title=Kenwood Attachment Chef Sense Glass Bowl KAT550GL New. Pay now., link=/pottery-glass/glass-crystal/bowls-dishes/auction-1295781430.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=];

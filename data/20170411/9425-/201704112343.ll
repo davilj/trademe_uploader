@@ -1,0 +1,14 @@
+LatestListing [title=Yellow Clown Goby New. Pay now., link=/pets-animals/fish/fish/marine-fish/auction-1299919407.htm, closingTimeText=closes in 16 secs, bidInfo=, priceInfo=];
+LatestListing [title=Dog Harness & Leash set LARGE 2 sizes New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1296468287.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$19.99];
+LatestListing [title=Dog Harness & Leash set LARGE 2 sizes New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1296468290.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$19.99];
+LatestListing [title=Pet Cage - M 60cm x 42cm x 51cm New. Pay now., link=/pets-animals/dogs/other/auction-1297216084.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=SUNSUN UV STERILIZER FILTER PUMP-2 yr Warranty New. Pay now., link=/pets-animals/fish/pumps-filters/auction-1294346782.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=UV light, link=/pets-animals/fish/fish-tanks-aquariums/auction-1298590351.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$40.00];
+LatestListing [title=RED CLICKER New., link=/pets-animals/dogs/other/auction-1296469824.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=PC5 CAT DOOR GLASS & WOOD FITTING (upgradeable) New. Pay now., link=/pets-animals/cats/cat-doors/auction-1296470099.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=Dog Lead Heavy Duty Short Leather SALE! 50%OFF New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1296471594.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Heart Shaped Dog Cat Food Spoon New. Pay now., link=/pets-animals/dogs/other/auction-1296471603.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Blue Planet Glass Fish Tank 61x30x38cm New. Pay now., link=/pets-animals/fish/fish-tanks-aquariums/auction-1296471597.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Dog Collar And Lead Set In Green Sale!!! New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1296471601.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Tui Premium Plus - Budgie Food 800g New. Pay now., link=/pets-animals/birds/other/auction-1299923469.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Soft Cozy Fleece Paw Shape Pet Bed - ORANGE New. Pay now., link=/pets-animals/dogs/beds-baskets/auction-1296473042.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=];

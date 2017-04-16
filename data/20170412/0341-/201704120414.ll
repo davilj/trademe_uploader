@@ -1,0 +1,6 @@
+LatestListing [title=Cookie Press Biscuit Gun & Icing Set New. Pay now., link=/crafts/cake-design/icing-edible-decorations/auction-1296557795.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$27.50];
+LatestListing [title=6x PME Red Head Princess Doll Pick Cake Decoration New. Pay now. Free Shipping., link=/crafts/cake-design/candles-decorations/auction-1296558075.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=PME White 7'' Square Folding Cardboard Cake Box New. Pay now. Free Shipping., link=/crafts/cake-design/moulds-tins/auction-1296559233.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Black Whiteboard & Permanent Pens - Bullet Tip x22 New. Pay now., link=/crafts/painting-drawing/auction-1296560248.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$37.20];
+LatestListing [title=Black Whiteboard Marker Pen - Bullet Tip x12 New. Pay now., link=/crafts/painting-drawing/auction-1296560259.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$23.40];
+LatestListing [title=Cake Modelling Tools Decorating Craft kit New. Pay now. Free Shipping., link=/crafts/cake-design/tools/auction-1296560738.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=];

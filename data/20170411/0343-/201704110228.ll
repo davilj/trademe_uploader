@@ -1,0 +1,10 @@
+LatestListing [title=SLIPKNOT - SLIPKNOT [SELF-TITLED] (VINYL LP) New. Pay now., link=/music-instruments/vinyl/lps-33-rpm/metal/auction-1295811530.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=CD-Soul Finder New. Pay now. Free Shipping., link=/music-instruments/cds/ambient-new-age/auction-1297235685.htm, closingTimeText=closes in 2 hrs 3 mins, bidInfo=, priceInfo=$22.99];
+LatestListing [title=CD-Spa Lounge New. Pay now., link=/music-instruments/cds/ambient-new-age/auction-1297236594.htm, closingTimeText=closes in 2 hrs 6 mins, bidInfo=, priceInfo=$30.52];
+LatestListing [title=Poi earrings Free Shipping., link=/music-instruments/instruments/drums/other/auction-1295824919.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=$12.00];
+LatestListing [title=Decorative Poi, link=/music-instruments/instruments/drums/other/auction-1295825087.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=$12.00];
+LatestListing [title=Kapa Haka Poi - Short & Long set New., link=/music-instruments/instruments/drums/other/auction-1295825141.htm, closingTimeText=closes in 2 hrs 10 mins, bidInfo=, priceInfo=$23.00];
+LatestListing [title=Poi for boys set New., link=/music-instruments/instruments/drums/other/auction-1295825173.htm, closingTimeText=closes in 2 hrs 10 mins, bidInfo=, priceInfo=$48.00];
+LatestListing [title=20x Baby Poi - with tassels Free Shipping., link=/music-instruments/instruments/drums/other/auction-1295825234.htm, closingTimeText=closes in 2 hrs 10 mins, bidInfo=, priceInfo=$80.00];
+LatestListing [title=Poi for boys-XL New., link=/music-instruments/instruments/drums/other/auction-1295825277.htm, closingTimeText=closes in 2 hrs 10 mins, bidInfo=, priceInfo=$12.00];
+LatestListing [title=Uriah heep best of Pay now., link=/music-instruments/vinyl/lps-33-rpm/rock/auction-1295826088.htm, closingTimeText=closes in 2 hrs 14 mins, bidInfo=, priceInfo=$20.00];

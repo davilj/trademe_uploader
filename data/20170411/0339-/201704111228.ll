@@ -1,0 +1,17 @@
+LatestListing [title=Beautiful Painting - local artist, link=/art/paintings/flora-fauna/oil/auction-1296023583.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$505.00];
+LatestListing [title=21st PATU New. Pay now., link=/art/carvings-sculpture/wood/auction-1296024920.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$95.00];
+LatestListing [title=POLYNESIAN DESIGN 21ST KEY New. Pay now., link=/art/carvings-sculpture/wood/auction-1296025010.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$215.00];
+LatestListing [title=Other Drawing Supplies Magic Black Erasers New. Pay now. Free Shipping., link=/art/art-supplies-equipment/other/auction-1296026346.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=FOODS THAT HARM/HEEL & HERBS, link=/art/drawings/auction-1296027448.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=RIPLEY'S BELIEVE IT OR NOT BOOKS, link=/art/drawings/auction-1296027924.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=NEW YOU CAN DRAW BOOKS, link=/art/drawings/auction-1296028044.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=blossoms n bluebells, link=/art/paintings/still-life/other/auction-1296028159.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$50.00];
+LatestListing [title=labrador portrait, link=/art/paintings/other/other/auction-1296028338.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$32.00];
+LatestListing [title=dog foil engraving in frame silver, link=/art/carvings-sculpture/other/auction-1296028556.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$8.00];
+LatestListing [title=Writer/Glue Bottles 3/Pkg-2oz New. Pay now. Free Shipping., link=/art/art-supplies-equipment/other/auction-1296028727.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Vintage Painting of Flowers in Autumnal Colours by Norine Standish, link=/art/paintings/flora-fauna/acrylic/auction-1297457878.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=Fas Total Wash Poster Paint 2 Litre Skin Tone New. Pay now., link=/art/art-supplies-equipment/paints-varnishes/acrylicbased/auction-1296029465.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=pair ove tappestry pictures, link=/art/paintings/other/other/auction-1296029547.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$80.00];
+LatestListing [title=Bockingford B21 Sketch Pad A3 110gsm 60 Leaves New. Pay now., link=/art/art-supplies-equipment/paper-pads-canvas/auction-1296029592.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=Antique fishing print/wood-cut, trout & salmon fishing, hand coloured, c1900, link=/art/prints/other/auction-1296030172.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$27.00];
+LatestListing [title=canadian geese, link=/art/paintings/still-life/oil/auction-1296030205.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$180.00];

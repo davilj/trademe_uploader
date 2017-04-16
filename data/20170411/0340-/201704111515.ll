@@ -1,0 +1,13 @@
+LatestListing [title=** QUALITY GERMAN FRUIT BOWL **, link=/pottery-glass/porcelain-pottery/other-european-manufacturers/auction-1296117759.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$15.00];
+LatestListing [title=** SMALL CRAYFISH DISH **, link=/pottery-glass/porcelain-pottery/carlton-ware/bowls-dishes/auction-1296121270.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=6 japanese cups and saucers, link=/pottery-glass/porcelain-pottery/other/cups-saucers/auction-1296122464.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=Royal Doulton Shakespeare Series Jug - Portia, link=/pottery-glass/porcelain-pottery/royal-doulton/jugs/auction-1296867354.htm, closingTimeText=closes in 9 mins, bidInfo=1 bid, priceInfo=$75.00];
+LatestListing [title=Glass Tumbler - 200ml - Set of 6 New. Pay now., link=/pottery-glass/glass-crystal/glasses/other/auction-1296867591.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$13.20];
+LatestListing [title=Glass Tumbler - 300ml Medium Tall Glasses Set of 6 New. Pay now., link=/pottery-glass/glass-crystal/glasses/other/auction-1296867594.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$12.60];
+LatestListing [title=** CAKE or PAV SERVING TROWEL **, link=/pottery-glass/porcelain-pottery/other-british-manufacturers/other/auction-1296124221.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$7.50];
+LatestListing [title=FUNKY *Heavy set, blue* MARGARITA GLASSES X 2 Pay now., link=/pottery-glass/glass-crystal/glasses/stemware/auction-1296124823.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=FUNKY *Rainbow mix* SHOT/SHERRY GLASSES X 6 Pay now., link=/pottery-glass/glass-crystal/glasses/other/auction-1296126758.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=2 SMALL MATCHING CRYSTAL VASES, link=/pottery-glass/glass-crystal/vases/auction-1296126773.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$45.00];
+LatestListing [title=BEAUTIFUL CRYSTAL BOWL, link=/pottery-glass/glass-crystal/bowls-dishes/auction-1296126784.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$50.00];
+LatestListing [title=Decanter and Glasses, link=/pottery-glass/glass-crystal/decanters-bottles/auction-1296126977.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$30.00];
+LatestListing [title=Large Falcon Ware Bowl, link=/pottery-glass/porcelain-pottery/other-british-manufacturers/other/auction-1296127062.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$32.00];

@@ -1,0 +1,1 @@
+LatestListing [title=Unique Design Rubber 'Dutch Duck' New. Pay now., link=/travel-events-activities/holiday-packages/international/auction-1296479832.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$9.95];

@@ -1,0 +1,10 @@
+LatestListing [title=USB socket to Xbox plug cable - $1 Reserve! New. Pay now., link=/gaming/xbox/accessories/cables-leads/auction-1299986411.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=$0.50];
+LatestListing [title=Nintendo 3DS Pokèmon Moon Game Role-Play Video Game New. Pay now., link=/gaming/pc-games/role-playing/auction-1296552284.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=];
+LatestListing [title=Xbox 360 Slim RCA Audio Cable Adapter New. Pay now., link=/gaming/xbox-360/accessories/cables-leads/auction-1297241664.htm, closingTimeText=closes in 2 hrs 8 mins, bidInfo=, priceInfo=];
+LatestListing [title=2 Pairs - XBOX 360 Controller Thumbsticks Analog Parts Repair Joystick - Black New. Pay now., link=/gaming/xbox-360/accessories/controllers/auction-1296572062.htm, closingTimeText=closes in 3 hrs 5 mins, bidInfo=, priceInfo=$5.50];
+LatestListing [title=TILT MECHANISM >>>Best price New. Pay now., link=/gaming/arcade-pinball-machines/parts/auction-1296572525.htm, closingTimeText=closes in 3 hrs 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=MULTI coin mechanism New. Pay now., link=/gaming/arcade-pinball-machines/parts/auction-1296572602.htm, closingTimeText=closes in 3 hrs 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Coin Operated Timer >> NZ's BEST PRICE! New. Pay now., link=/gaming/arcade-pinball-machines/parts/auction-1296572664.htm, closingTimeText=closes in 3 hrs 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=LED lite arcade buttons New. Pay now., link=/gaming/arcade-pinball-machines/parts/auction-1296572752.htm, closingTimeText=closes in 3 hrs 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=ps3 controller wireless New. Pay now., link=/gaming/playstation-3/accessories/controllers/auction-1296573083.htm, closingTimeText=closes in 3 hrs 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=2x 10cm 8ohm 5watt ARCADE speakers New. Pay now., link=/gaming/arcade-pinball-machines/parts/auction-1300020259.htm, closingTimeText=closes in 3 hrs 8 mins, bidInfo=, priceInfo=];

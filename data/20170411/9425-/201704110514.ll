@@ -1,0 +1,11 @@
+LatestListing [title=DOG TOY - FRESHEEZE MINT SOLID BALL New. Pay now., link=/pets-animals/dogs/toys-treats/auction-1295844109.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=$13.50];
+LatestListing [title=Dog / Puppy Grooming Brush New. Pay now., link=/pets-animals/dogs/grooming/auction-1295845668.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=];
+LatestListing [title=Two flight walkin avairy...Brand new. New., link=/pets-animals/birds/cages-accessories/auction-1295845953.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=$815.00];
+LatestListing [title=Walk in Avairy. New., link=/pets-animals/birds/cages-accessories/auction-1295845956.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=$675.00];
+LatestListing [title=LargeWalk in Avairy New., link=/pets-animals/birds/cages-accessories/auction-1295845962.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=$1,625];
+LatestListing [title=Extra Large rabbit hutch. New., link=/pets-animals/rabbits-guinea-pigs/hutches/auction-1295845964.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=$230.00];
+LatestListing [title=Rabbit Hutch..Brand new...Large. New., link=/pets-animals/rabbits-guinea-pigs/hutches/auction-1295845966.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=$190.00];
+LatestListing [title=Cat Scratcher New. Pay now., link=/pets-animals/cats/toys-treats/auction-1299380195.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$14.95];
+LatestListing [title=Pet Dog Bed Hammock S Canopy 61cmx46cm Trampoline New. Pay now., link=/pets-animals/dogs/beds-baskets/auction-1299380233.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=];
+LatestListing [title=Pet Dog Bed Hammock S Canopy 61cmx46cm Trampoline New. Pay now., link=/pets-animals/dogs/beds-baskets/auction-1299380234.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=];
+LatestListing [title=Pet Dog Soft Crate 42cm x 36cm x 33cm New. Pay now., link=/pets-animals/dogs/travel-carriers/auction-1299380237.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$24.95];

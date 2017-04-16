@@ -1,0 +1,11 @@
+LatestListing [title=Guitar Trigger Capo Key Clamp New. Pay now., link=/music-instruments/instruments/guitar-bass/other/auction-1297282399.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Eddie Calvert Great Standards E/P Pay now., link=/music-instruments/vinyl/45-rpm/other/auction-1296591089.htm, closingTimeText=closes in 2 hrs 3 mins, bidInfo=, priceInfo=$2.50];
+LatestListing [title=Bernstein Conducts Favourite Suites Pay now., link=/music-instruments/cds/classical/auction-1296591292.htm, closingTimeText=closes in 2 hrs 4 mins, bidInfo=, priceInfo=$1.00];
+LatestListing [title=Atomic Kitten - Ladies Night, link=/music-instruments/cds/compilations/auction-1296592591.htm, closingTimeText=closes in 2 hrs 8 mins, bidInfo=, priceInfo=$4.00];
+LatestListing [title=History of Pop Radio Vol. 7 1939 CD Pay now., link=/music-instruments/cds/compilations/auction-1296593788.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$3.00];
+LatestListing [title=The Sugars - The Curse Of The Sugars CD 2008 Pay now., link=/music-instruments/cds/pop-rock/artist-s/auction-1296593908.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$2.50];
+LatestListing [title=Revis "Places For Breathing" CD 2003 Pay now., link=/music-instruments/cds/pop-rock/artist-r/auction-1296593990.htm, closingTimeText=closes in 2 hrs 13 mins, bidInfo=, priceInfo=$2.00];
+LatestListing [title=Organ, old pedal type, grab a bargain !!, link=/music-instruments/instruments/keyboards-piano/organs/auction-1296594168.htm, closingTimeText=closes in 2 hrs 13 mins, bidInfo=, priceInfo=$1.00];
+LatestListing [title=The Golden Republic CD 2004 Pay now., link=/music-instruments/cds/pop-rock/artist-g/auction-1296594217.htm, closingTimeText=closes in 2 hrs 14 mins, bidInfo=, priceInfo=$2.25];
+LatestListing [title=Microphone Mic Ajustable Stand New. Pay now., link=/music-instruments/pa-pro-audio-dj-equipment/microphones/other/auction-1297286339.htm, closingTimeText=closes in 2 hrs 14 mins, bidInfo=, priceInfo=];
+LatestListing [title=Styles Upon Styles Pt. 1. Urban Soul Pollination Pay now., link=/music-instruments/cds/new-zealand/various/auction-1296594384.htm, closingTimeText=closes in 2 hrs 14 mins, bidInfo=, priceInfo=$4.50];

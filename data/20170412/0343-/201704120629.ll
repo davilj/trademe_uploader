@@ -1,0 +1,8 @@
+LatestListing [title=Turtle Beach i60 Headphones- NEW New., link=/music-instruments/other/auction-1296586642.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$150.00];
+LatestListing [title=Tim Mcgraw Two Lanes of Freedom New CD New. Pay now., link=/music-instruments/cds/country/artist-su/auction-1296587375.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Imagine Dragons Night Visions (Music CD) New. Pay now., link=/music-instruments/cds/pop-rock/artist-i/auction-1296587592.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=MOUTHPIECE FOR CORNET - BRAND NEW New. Pay now., link=/music-instruments/instruments/brass/mouthpieces-parts/auction-1297279111.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=Toa Attenuator - Volume Controller 30W, link=/music-instruments/pa-pro-audio-dj-equipment/other/auction-1296587985.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=Toa Attenuator - Volume Controller 60W New., link=/music-instruments/pa-pro-audio-dj-equipment/other/auction-1296587990.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$25.00];
+LatestListing [title=The Musical Collection ...Oliver CD, link=/music-instruments/music-memorabilia/programmes/auction-1296590058.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=The Musical Collection .. Oklahoma CD, link=/music-instruments/music-memorabilia/programmes/auction-1296590059.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$15.00];

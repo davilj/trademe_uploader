@@ -1,0 +1,5 @@
+LatestListing [title=Waikiki Studio /Free Parking & Wifi / Top Location, link=/travel-events-activities/accommodation/international/auction-1296988734.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$157.00];
+LatestListing [title=Travel case., link=/travel-events-activities/other/auction-1297026166.htm, closingTimeText=closes in 1 hr 1 min, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Jerry Seinfeld Live in Auckland - Great Seat New. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1297090772.htm, closingTimeText=closes in 2 hrs 14 mins, bidInfo=, priceInfo=$215.00];
+LatestListing [title=TERRACE DOWNS-5 Night Holiday Special for 4, link=/travel-events-activities/accommodation/new-zealand/canterbury/auction-1297138675.htm, closingTimeText=closes in 3 hrs 4 mins, bidInfo=, priceInfo=$850.00];
+LatestListing [title=upper body shade from the sun Pay now., link=/travel-events-activities/other/auction-1297148207.htm, closingTimeText=closes in 3 hrs 15 mins, bidInfo=, priceInfo=$15.00];

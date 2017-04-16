@@ -1,0 +1,15 @@
+LatestListing [title=Other Painting Supplies Paint By Number Kit New. Pay now. Free Shipping., link=/art/art-supplies-equipment/paints-varnishes/other/auction-1295912049.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Funky beach scene, link=/art/prints/abstract/auction-1295912316.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=Russian Portrait Oil on Canvas Pay now., link=/art/paintings/portrait/oil/auction-1295912383.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$95.00];
+LatestListing [title="Milford Sound" Framed Charles Heaphy Print Pay now., link=/art/prints/landscapes/auction-1295912656.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$34.00];
+LatestListing [title=Large Still Life Acrylic Unknown Artist Pay now., link=/art/paintings/still-life/acrylic/auction-1295912966.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$95.00];
+LatestListing [title=Bill McCormick. Horse on Beach Print Pay now., link=/art/prints/landscapes/auction-1295913444.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$30.00];
+LatestListing [title=Acrylic Paints Liquitex Slow-Dri Blending New. Pay now. Free Shipping., link=/art/art-supplies-equipment/paints-varnishes/acrylicbased/auction-1295913797.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=Lucille Cranwell W/C "Carpet Worker Karachi" Pay now., link=/art/paintings/portrait/watercolour/auction-1295913891.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$95.00];
+LatestListing [title=guyucuul Pay now., link=/art/other/auction-1295914293.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Fresh Up, link=/art/prints/other/auction-1295914510.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=Lincoln Lee Untitled W/C Landscape Pay now., link=/art/paintings/landscape/watercolour/auction-1295914736.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$135.00];
+LatestListing [title=Game of Thrones DRAGONS wall display, link=/art/carvings-sculpture/wood/auction-1295915149.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$45.00];
+LatestListing [title=Quadtych Print "4 Leaves" Pay now., link=/art/prints/other/auction-1295915300.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$8.00];
+LatestListing [title=Comic Book Cover Hulk Issue 1 Wall Stickers New. Pay now. Free Shipping., link=/art/prints/other/auction-1295915744.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Stunning Cramond Painting! Great shadow play!, link=/art/paintings/landscape/acrylic/auction-1295916236.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$420.00];

@@ -1,0 +1,2 @@
+LatestListing [title=Christchurch accommodation Free Shipping., link=/travel-events-activities/accommodation/new-zealand/canterbury/auction-1296445147.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Ahuriri beach front Free Shipping., link=/travel-events-activities/accommodation/new-zealand/hawkes-bay/auction-1294953974.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$900.00];

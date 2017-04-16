@@ -1,0 +1,4 @@
+LatestListing [title=SUNSTAR 1/18 - 4448 FORD ESCORT MK2 3RD LOMBARD RAC RALY 1976 - WALDEGARD Pay now. Free Shipping., link=/toys-models/die-casts/sunstar/auction-1295803618.htm, closingTimeText=closes in 19 secs, bidInfo=, priceInfo=];
+LatestListing [title=VANGUARDS 1/64 BO1002 BOOTS DELIVERY TRUCKS OF THE 1960'S Pay now. Free Shipping., link=/toys-models/die-casts/other/auction-1295803673.htm, closingTimeText=closes in 28 secs, bidInfo=, priceInfo=];
+LatestListing [title=Reaper Miniatures Dark Heaven - Human Female Warriors Metal Taroya (MINT/New) New. Pay now., link=/toys-models/figurines-miniatures/miniatures/other/auction-1295804089.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Star Wars VII Unisex Beanie The Force Awakens Bb-8 Astromech Droid | One Size New. Pay now. Free Shipping., link=/toys-models/other/auction-1295805928.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=];

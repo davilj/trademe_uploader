@@ -1,0 +1,10 @@
+LatestListing [title="Poppies & Irises" By Jenny Huston (2008) Pay now. Free Shipping., link=/art/paintings/landscape/acrylic/auction-1296495685.htm, closingTimeText=closes in 47 secs, bidInfo=, priceInfo=$250.00];
+LatestListing [title="Poppies" Pay now. Free Shipping., link=/art/paintings/landscape/oil/auction-1296495686.htm, closingTimeText=closes in 47 secs, bidInfo=, priceInfo=$250.00];
+LatestListing [title=Pulp Fiction Stormtroopers Art Print - A4 New. Pay now. Free Shipping., link=/art/prints/other/auction-1296496430.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Pulp Fiction Stormtroopers Art Print - A3 New. Pay now. Free Shipping., link=/art/prints/other/auction-1296496439.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Framed oil painting x 2 pictures, link=/art/paintings/portrait/oil/auction-1296497540.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$120.00];
+LatestListing [title=Framed Art Print 'bluebells' by margaret stoddart, link=/art/paintings/portrait/oil/auction-1296497546.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$99.00];
+LatestListing [title=Melissa & Doug Simply Crafty Safari Mask Set New. Pay now., link=/art/art-supplies-equipment/other/auction-1296500542.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=Artline White paint marker 400XF New., link=/art/art-supplies-equipment/technical-pens-aids/auction-1296553308.htm, closingTimeText=closes in 3 hrs 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Doctor Who Tattoos - Gb Eye Mix Tattoo Pack, New. Pay now. Free Shipping., link=/art/tattoos/other/auction-1296553456.htm, closingTimeText=closes in 3 hrs 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Fas Super Tempera Poster Paint 500ml Yellow New. Pay now., link=/art/art-supplies-equipment/paints-varnishes/waterbased/auction-1296553917.htm, closingTimeText=closes in 3 hrs 7 mins, bidInfo=, priceInfo=];

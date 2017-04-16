@@ -1,0 +1,13 @@
+LatestListing [title=Small Pencil Drawing, link=/art/drawings/auction-1296799659.htm, closingTimeText=closes in 8 secs, bidInfo=, priceInfo=$20.00];
+LatestListing [title=Paul Hanrahan - Winter in the Wairarapa 1975 Pay now., link=/art/paintings/landscape/watercolour/auction-1296801029.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$1,200];
+LatestListing [title=Five Chinese Lacquer Masks, link=/art/other/auction-1296801494.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$145.00];
+LatestListing [title=Signed Mounted Print of Beehive and Victoria Uni New. Pay now., link=/art/prints/landscapes/auction-1297481614.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$19.00];
+LatestListing [title=chafinch New., link=/art/paintings/other/acrylic/auction-1296802546.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$50.00];
+LatestListing [title=Paris Paintings - Eiffel Tower and Arc de Triumphe New. Pay now. Free Shipping., link=/art/paintings/landscape/oil/auction-1296803197.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Aviation art and Aircraft drawings Free Shipping., link=/art/paintings/other/mixed-media/auction-1296802796.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$130.00];
+LatestListing [title=Aviation art and Aircraft drawings Free Shipping., link=/art/prints/other/auction-1296803017.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$155.00];
+LatestListing [title=Synergie Vintage Poster by Fix Masseau - 64cm x 94cm New. Pay now. Free Shipping., link=/art/prints/other/auction-1296805249.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=SCRABBLE TILES FULL SET IN WOOD (100), link=/art/art-supplies-equipment/technical-pens-aids/auction-1296805958.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$18.00];
+LatestListing [title=Original Cityscape Abstract Painting, link=/art/paintings/abstract/acrylic/auction-1296806519.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$75.00];
+LatestListing [title=Playing Card Mixed Media Canvas, link=/art/paintings/abstract/mixed-media/auction-1296806521.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$250.00];
+LatestListing [title=Large Oil Paintings New. Pay now. Free Shipping., link=/art/paintings/landscape/oil/auction-1296808202.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];

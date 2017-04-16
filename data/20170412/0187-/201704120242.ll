@@ -1,0 +1,9 @@
+LatestListing [title=photo SOFIA VERGARA, link=/antiques-collectables/movie-tv-memorabilia/other/auction-1296535171.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=photo SOFIA VERGARA, link=/antiques-collectables/movie-tv-memorabilia/other/auction-1296535173.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=photo CARRIE FISHER. "Princess Leia", STAR WARS Film, link=/antiques-collectables/movie-tv-memorabilia/other/auction-1296535174.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=photo CARRIE FISHER. "Princess Leia", STAR WARS Film, link=/antiques-collectables/movie-tv-memorabilia/other/auction-1296535176.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=REPRO PHOTO. MAORI FAMILY ON CANOE, WANGANUI RIVER, link=/antiques-collectables/cultural-ethnic/auction-1296535886.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=REPRO PHOTO. BULLOCK TRAIN DRIVER OUTSIDE KAURI GUM MERCHANT, KAIKOHE, link=/antiques-collectables/new-zealand-maori/auction-1296535891.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=REPRO PHOTO. AHIPARA HILL KAURI GUMFIELD, link=/antiques-collectables/new-zealand-maori/auction-1296535893.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=REPRO PHOTO. WASHING KAURI GUM IN THE FIELD, 1911, link=/antiques-collectables/new-zealand-maori/auction-1296535897.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=Turkey Flag - 5ft X 3ft New. Pay now. Free Shipping., link=/antiques-collectables/flags/auction-1296549947.htm, closingTimeText=closes in 1 hr 1 min, bidInfo=, priceInfo=];

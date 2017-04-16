@@ -1,0 +1,10 @@
+LatestListing [title=iPhone 5S Pay now. Free Shipping., link=/mobile-phones/mobile-phones/iphone/iphone-5s/auction-1295741727.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Warehouse Mobile Trio Prepay Sim Card $10 Credit # New. Pay now., link=/mobile-phones/sim-cards/other/auction-1297277361.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$9.00];
+LatestListing [title=Waterproof Arm Band Case For Samsung S5 - Grey - SUPER FAST SHIPPING New. Pay now., link=/mobile-phones/accessories/armbands/auction-1296586736.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Sony Xperia XA Case New. Pay now., link=/mobile-phones/accessories/cases-covers/sony-ericsson/auction-1297277604.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$12.99];
+LatestListing [title=Huawei P8 Case Orange New. Pay now., link=/mobile-phones/accessories/cases-covers/huawei/auction-1297278107.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Native Union iPhone 6 Plus/6s Plus cover New. Pay now., link=/mobile-phones/accessories/cases-covers/iphone/auction-1296588629.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Wall Charger + USB Cable For Samsung Galaxy S5 New. Pay now., link=/mobile-phones/accessories/chargers/wall-chargers/auction-1296589805.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$9.99];
+LatestListing [title=Samsung S6 Case New., link=/mobile-phones/accessories/cases-covers/samsung/auction-1296589870.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=iPhone 7 Case New. Pay now. Free Shipping., link=/mobile-phones/accessories/cases-covers/iphone/auction-1296590376.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=];
+LatestListing [title=T-Mobile Flex Case for LG Leon Cover Grip Non-Slip Protective Skin Black Pay now., link=/mobile-phones/accessories/cases-covers/other/auction-1296590631.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];

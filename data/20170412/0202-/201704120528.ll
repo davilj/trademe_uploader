@@ -1,0 +1,16 @@
+LatestListing [title=Nintendo Gamecube and Nintendo Wii 256MB Memory Card NEW FAST SHIP New. Pay now., link=/gaming/other-nintendo/gamecube/accessories/auction-1296586884.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=Various Educational Computer games, link=/gaming/pc-games/kids-educational/auction-1296587270.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Wizards of the Coast Magic the Gathering - Beta - Singles Wall of Fire (U) (NM) Pay now., link=/gaming/trading-cards/magic/individual-cards/auction-1296587283.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Transformers Devastation New. Pay now., link=/gaming/playstation-4/games/auction-1296587504.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=PlayStation 4 Cooler USB Fan New. Pay now. Free Shipping., link=/gaming/playstation/accessories/other/auction-1296589103.htm, closingTimeText=closes in 1 hr 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=GRAND THEFT AUTO 4 LOCKBOX & COLLECTABLES, link=/gaming/other/auction-1296589117.htm, closingTimeText=closes in 1 hr 11 mins, bidInfo=, priceInfo=$49.00];
+LatestListing [title=GTA 5, link=/gaming/playstation-3/games/driving-racing/auction-1296589817.htm, closingTimeText=closes in 1 hr 13 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Wii Steering Wheel - Venom Remote Housing () - New. Pay now. Free Shipping., link=/gaming/nintendo-ds/accessories/other/auction-1296608823.htm, closingTimeText=closes in 2 hrs 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Nintendo Ds Lite Glove - Licensed Blue Silicon ( New. Pay now. Free Shipping., link=/gaming/nintendo-ds/accessories/other/auction-1296609141.htm, closingTimeText=closes in 2 hrs 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Transfer Sheets New., link=/gaming/war-games/warhammer-40000/auction-1296610738.htm, closingTimeText=closes in 2 hrs 7 mins, bidInfo=, priceInfo=$19.00];
+LatestListing [title=Exalted Sorcerer of Tzeentch NEW ON SPRUES New., link=/gaming/war-games/warhammer-40000/auction-1296610745.htm, closingTimeText=closes in 2 hrs 7 mins, bidInfo=, priceInfo=$29.00];
+LatestListing [title=Xbox 360 E *LATEST* +4 Games, link=/gaming/xbox-360/consoles/auction-1296610749.htm, closingTimeText=closes in 2 hrs 7 mins, bidInfo=6 bids, priceInfo=$41.00];
+LatestListing [title=[CLEARANCE] Wreckateer Kinect Game DIGITAL DOWNLOAD Xbox 360 - EMAIL CODE New. Free Shipping., link=/gaming/xbox-360/games/kids-educational/auction-1296610988.htm, closingTimeText=closes in 2 hrs 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=White Dwarfs, link=/gaming/war-games/warhammer-40000/auction-1296611744.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=$6.00];
+LatestListing [title=Pro Evolution Soccer 2012 for PS3 New. Pay now., link=/gaming/playstation-3/games/sports/auction-1296611894.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=$9.99];
+LatestListing [title=Rogue Warrior XBOX 360 Pay now., link=/gaming/xbox-360/games/action-adventure/auction-1296611952.htm, closingTimeText=closes in 2 hrs 9 mins, bidInfo=, priceInfo=$8.00];

@@ -1,0 +1,4 @@
+LatestListing [title=Easter 4 tickets Blues Canes, Corporate box+car park, 2 rooms Motel, 15 April New. Free Shipping., link=/sports/rugby-league/other/auction-1301581575.htm, closingTimeText=closes in 21 secs, bidInfo=, priceInfo=$1,000];
+LatestListing [title=Waikiki Studio /Free Parking & Wifi / Top Location, link=/travel-events-activities/accommodation/international/auction-1296988734.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=$157.00];
+LatestListing [title=Travel case., link=/travel-events-activities/other/auction-1297026166.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Jerry Seinfeld Live in Auckland - Great Seat New. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1297090772.htm, closingTimeText=closes in 3 hrs 14 mins, bidInfo=, priceInfo=$215.00];

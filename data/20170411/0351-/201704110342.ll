@@ -1,0 +1,9 @@
+LatestListing [title=La Redoute Girlbaby Padded Jacket Grey Size 18 months - 32 in. New. Pay now., link=/baby-gear/clothing/jackets/36-months/auction-1295813395.htm, closingTimeText=closes in 4 secs, bidInfo=, priceInfo=];
+LatestListing [title=La Redoute Girltoddler Ballet Pumps Pink Size 19 New. Pay now., link=/baby-gear/other/auction-1295813792.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Fisher-Price Jammin' Beats Drum Set New. Pay now. Free Shipping., link=/baby-gear/toys/other/auction-1295814494.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Cute jeans, link=/baby-gear/clothing/pants-overalls/36-months/auction-1295815717.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$1.00];
+LatestListing [title=BABY CAPSUAL, link=/baby-gear/car-seats/capsules/auction-1298656018.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=La Redoute Boybaby T-Shirt Blue Size 6 months - 26 in. New. Pay now., link=/baby-gear/clothing/tops/912-months/auction-1295815975.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=Marvel Comics Retro Toiletry Bag New. Pay now. Free Shipping., link=/baby-gear/backpacks-carriers/backpacks/auction-1295826550.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Night Light - Tomy Star Dreamshow Yellow Cot Crib New. Pay now. Free Shipping., link=/baby-gear/blankets-covers/cot-blankets/cotton/auction-1295827237.htm, closingTimeText=closes in 1 hr 8 mins, bidInfo=, priceInfo=];
+LatestListing [title=Bonds Zip Wondersuit size 0 Kyoto Garden (no laybys) New. Pay now., link=/baby-gear/clothing/all-in-ones/69-months/auction-1295828506.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$27.99];

@@ -1,0 +1,7 @@
+LatestListing [title=10 mL Amber Glass Bottle with Dripulator and Black Tampertel Cap New. Pay now., link=/pottery-glass/glass-crystal/decanters-bottles/auction-1299878692.htm, closingTimeText=closes in 10 secs, bidInfo=, priceInfo=];
+LatestListing [title=HANDPAINTE WALL PLATE, link=/pottery-glass/porcelain-pottery/other-nz-manufacturers/auction-1297169271.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Shot glasses x 6 New., link=/pottery-glass/glass-crystal/glasses/other/auction-1294978388.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$12.00];
+LatestListing [title=Large glass plate with Bird decor, 27cm x 27cm. New. Pay now., link=/pottery-glass/glass-crystal/plates/auction-1300603852.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=Crystal Jar Pay now., link=/pottery-glass/glass-crystal/other/auction-1297170107.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$35.00];
+LatestListing [title=5 beautiful crystal decanters, link=/pottery-glass/glass-crystal/decanters-bottles/auction-1297170512.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$165.00];
+LatestListing [title=Royal Crown Derby Coffee Cup & Saucer Pay now., link=/pottery-glass/porcelain-pottery/other-british-manufacturers/cups-saucers/auction-1297176857.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$65.00];

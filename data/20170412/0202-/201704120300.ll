@@ -1,0 +1,12 @@
+LatestListing [title=Signed cards from 21 diff Artist, link=/gaming/trading-cards/magic/other/auction-1296540094.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$170.00];
+LatestListing [title=Wii Remote - Venom V-mote And V-chuk Play Pack - New. Pay now. Free Shipping., link=/gaming/nintendo-ds/accessories/other/auction-1296554183.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Nintendo 3DS Selects: Nintendogs + Cats - Golden Retriever Game New. Pay now., link=/gaming/pc-games/simulation/auction-1296557288.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=];
+LatestListing [title=PS4 Wired Headset with Mic New. Pay now., link=/gaming/playstation-4/accessories/auction-1297247708.htm, closingTimeText=closes in 2 hrs 6 mins, bidInfo=, priceInfo=$5.97];
+LatestListing [title=Nintendo 3DS Game Bundle Pack in White Gaming Other Accessories New. Pay now., link=/gaming/playstation/accessories/other/auction-1296567137.htm, closingTimeText=closes in 2 hrs 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=Screwdriver for Nintendo 64 NES Gameboy 3.8 4.5mm New. Pay now., link=/gaming/other-nintendo/n64/accessories/auction-1296567255.htm, closingTimeText=closes in 2 hrs 8 mins, bidInfo=, priceInfo=];
+LatestListing [title=3.8mm 4.5mm security bit gamebit nes nintendo n64 New. Pay now., link=/gaming/other-nintendo/n64/accessories/auction-1296567260.htm, closingTimeText=closes in 2 hrs 8 mins, bidInfo=, priceInfo=];
+LatestListing [title=Wii Sports Canoeing Paddle Attachment New. Pay now., link=/gaming/nintendo-wii/accessories/auction-1296568146.htm, closingTimeText=closes in 2 hrs 15 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=LIMITED EDITION Pokemon Evolution Tee Shirts - range of sizes and colours! New. Pay now., link=/gaming/trading-cards/pokemon/auction-1296579172.htm, closingTimeText=closes in 3 hrs 8 mins, bidInfo=, priceInfo=];
+LatestListing [title=XBOX 360 PS3 PS4 & PC Hifi Gaming Headset New. Pay now., link=/gaming/playstation-3/accessories/other/auction-1296579311.htm, closingTimeText=closes in 3 hrs 8 mins, bidInfo=, priceInfo=];
+LatestListing [title=Watch Dogs 2, link=/gaming/playstation-4/games/auction-1296580503.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$50.00];
+LatestListing [title=Call of duty Advance warfare, link=/gaming/playstation-4/games/auction-1296580507.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$30.00];

@@ -1,0 +1,2 @@
+LatestListing [title=Wizz around Waiheke-feel like a superhero EcycleNZ, link=/travel-events-activities/activities/auction-1296444349.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$59.00];
+LatestListing [title=Christchurch accommodation Free Shipping., link=/travel-events-activities/accommodation/new-zealand/canterbury/auction-1296445147.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];

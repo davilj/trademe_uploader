@@ -1,0 +1,4 @@
+LatestListing [title=Wii Remote Nunchuck MOTION PLUS - Red New. Pay now., link=/gaming/nintendo-wii/accessories/auction-1299368519.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$25.50];
+LatestListing [title=Nunchuck Controller Wii Remote - Motion Plus Red New. Pay now., link=/gaming/nintendo-wii/accessories/auction-1299368548.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$25.50];
+LatestListing [title=Ds Lite Cover - Venom Licensed Pink Silicon Glove New. Pay now. Free Shipping., link=/gaming/nintendo-ds/accessories/other/auction-1295838745.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=Dragon Age Ashes Morrigan titan vinyl New., link=/gaming/playstation-4/accessories/auction-1295839277.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$1.00];

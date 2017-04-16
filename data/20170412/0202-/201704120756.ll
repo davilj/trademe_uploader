@@ -1,0 +1,14 @@
+LatestListing [title=Evolve, link=/gaming/playstation-4/games/auction-1296621083.htm, closingTimeText=closes in 27 secs, bidInfo=, priceInfo=$15.00];
+LatestListing [title=Tropico 5 Day One Edition, link=/gaming/playstation-4/games/auction-1296621085.htm, closingTimeText=closes in 27 secs, bidInfo=, priceInfo=$40.00];
+LatestListing [title=Collection of warhammer, link=/gaming/war-games/warhammer-40000/auction-1294892593.htm, closingTimeText=closes in 3 mins, bidInfo=29 bids, priceInfo=$72.00];
+LatestListing [title=GameCube Controller x2 ______ NEW New. Pay now., link=/gaming/other-nintendo/gamecube/accessories/auction-1296622317.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$24.50];
+LatestListing [title=Pokemon Mystery Dungeon Explorers of Darkness, link=/gaming/nintendo-3ds/games/auction-1296623091.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$55.00];
+LatestListing [title=Forza 2 Xbox 360, link=/gaming/xbox-360/games/music-party/auction-1296623284.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=Guitar Hero 5 Xbox 360, link=/gaming/xbox-360/games/music-party/auction-1296623286.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$12.00];
+LatestListing [title=12x Oculus Rift DK2 Lens Protectors Pay now., link=/gaming/other/auction-1296623516.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$2.00];
+LatestListing [title=LUCIFER"S CALL, GAME CASE & MANUAL, link=/gaming/playstation-2/games/role-playing/auction-1296623760.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=DIGITAL DEVIL SAGA 1 & 2 MANUALS INCLUDED, link=/gaming/playstation-2/games/role-playing/auction-1296623764.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$40.00];
+LatestListing [title=ENSLAVED - ODYSSEY TO THE WEST Pay now., link=/gaming/playstation-3/games/role-playing/auction-1296623765.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Doctor Who: The Eternity Clock PS3 Pay now., link=/gaming/playstation-3/games/action-adventure/auction-1296624041.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$24.00];
+LatestListing [title=XBOX and cords, controllers etc. Ex. Cond. Pay now., link=/gaming/xbox/consoles/auction-1296624140.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$125.00];
+LatestListing [title=XBOX 360 plus contoller, all cords etc. Pay now., link=/gaming/xbox-360/consoles/auction-1296624246.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$100.00];

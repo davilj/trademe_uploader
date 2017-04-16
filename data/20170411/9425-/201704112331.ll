@@ -1,0 +1,12 @@
+LatestListing [title=Pet One Dog Cat Rabbit Reptile Heat Warm Panel Pad New. Pay now., link=/pets-animals/dogs/beds-baskets/auction-1296460894.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Cat Treats Greenies Feline Oven Roasted Chicken New. Pay now., link=/pets-animals/cats/toys-treats/auction-1296460893.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Dog Fencing System With Electric Collar New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1296461342.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=SUBMERSIBLE Aquarium Fountain Water PUMP--5500L/H New. Pay now., link=/pets-animals/fish/pumps-filters/auction-1296462407.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Blue Rubber Bone Pet Dog Puppy Chew Play Training Fetch Toy 1pc New. Pay now., link=/pets-animals/dogs/toys-treats/auction-1296462436.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$1.00];
+LatestListing [title=Dog Cat Pet Food Water Steel Double Bowl w Stand New. Pay now., link=/pets-animals/cats/other/auction-1296463549.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=Pet Dog Collar- L New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1296464094.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$19.90];
+LatestListing [title=Pet Bed Cat & Dog Warm Bed - 75cm x 55cm New. Pay now., link=/pets-animals/dogs/beds-baskets/auction-1296464182.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=AVI ONE BIRD NET ROUND 45CM W/65CM SOCK AND HANDLE New. Pay now., link=/pets-animals/birds/other/auction-1296466636.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=Yellow Clown Goby New. Pay now., link=/pets-animals/fish/fish/marine-fish/auction-1299919407.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=];
+LatestListing [title=Dog Harness & Leash set LARGE 2 sizes New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1296468287.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$19.99];
+LatestListing [title=Dog Harness & Leash set LARGE 2 sizes New. Pay now., link=/pets-animals/dogs/collars-leads/auction-1296468290.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$19.99];

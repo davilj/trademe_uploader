@@ -1,0 +1,1 @@
+LatestListing [title=Ahuriri beach front Free Shipping., link=/travel-events-activities/accommodation/new-zealand/hawkes-bay/auction-1294953974.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$900.00];

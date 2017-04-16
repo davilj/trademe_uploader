@@ -1,0 +1,4 @@
+LatestListing [title=iPhone 5S 64GB Weekly Special!!!! Pay now. Free Shipping., link=/mobile-phones/mobile-phones/iphone/iphone-5s/auction-1293809272.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Samsung Galaxy J7 J710FD 2016 Dual SIM - Black | Brand New Unlocked New. Pay now., link=/mobile-phones/mobile-phones/samsung/other-samsung-phones/auction-1297249051.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Cross Line Metal Set Backing Cover for iPhone 4/4s New. Pay now., link=/mobile-phones/accessories/cases-covers/iphone/auction-1295831375.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=Bluetooth Hands free Fm Receiver New., link=/mobile-phones/accessories/headsets-handsfree/wireless/auction-1295831457.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$20.00];

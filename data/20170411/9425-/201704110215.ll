@@ -1,0 +1,4 @@
+LatestListing [title=Self Warming Pet Cushion Dog Cat Bed Mat Puppy Kitten 18 x 25 Fleece Washable New. Pay now., link=/pets-animals/dogs/beds-baskets/auction-1295794068.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=Comb Attachment Set Adjustable Blade Clipper New., link=/pets-animals/dogs/grooming/auction-1295809732.htm, closingTimeText=closes in 1 hr 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=Pet House - White with Red Roof - Portable New. Pay now., link=/pets-animals/dogs/kennels-crates-pens/other/auction-1296557671.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Cat Tower Exercise Play Gym Scratch Post 87cm High New. Pay now., link=/pets-animals/cats/other/auction-1296557811.htm, closingTimeText=closes in 2 hrs 1 min, bidInfo=, priceInfo=$39.00];

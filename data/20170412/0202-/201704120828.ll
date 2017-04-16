@@ -1,0 +1,12 @@
+LatestListing [title=Playstation Move Controller x2 + Charging Station + Camera + Game! Pay now., link=/gaming/playstation-3/accessories/controllers/auction-1296635497.htm, closingTimeText=closes in 31 secs, bidInfo=, priceInfo=$114.00];
+LatestListing [title=Slim Hard Carry Case Blue For PS Vita *Hot Deal* New. Pay now., link=/gaming/playstation-vita/accessories/auction-1296635936.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$5.19];
+LatestListing [title=Hand Grip Game Accessory for PS Vita New. Pay now., link=/gaming/playstation-vita/accessories/auction-1296636068.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$11.90];
+LatestListing [title=XBOX 360 Headset with Microphone *Best Price* New. Pay now., link=/gaming/xbox-360/accessories/headsets/auction-1296636120.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$3.84];
+LatestListing [title={XBOX360} Warriors Orochi Pay now., link=/gaming/xbox-360/games/fighting/auction-1296636200.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$16.90];
+LatestListing [title=Pokemon Blastoise-EX Elemental Power Tin (sealed) New. Pay now., link=/gaming/trading-cards/pokemon/auction-1296636357.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=***PS1 RUGRATS in Paris The Movie Pay now., link=/gaming/playstation/games/kids-educational/auction-1296638056.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Overlord Raising Hell PS3 Pay now., link=/gaming/playstation-3/games/action-adventure/auction-1296638813.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$23.00];
+LatestListing [title=Pokemon Venasaur Elemental Power Tin (sealed) New. Pay now., link=/gaming/trading-cards/pokemon/auction-1296638890.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=***PS1 Disney's TARZAN nm Pay now., link=/gaming/playstation/games/kids-educational/auction-1296638969.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=2in1 USB Dual Double Charging Station PS3 New. Pay now., link=/gaming/playstation-3/accessories/other/auction-1296639834.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$7.77];
+LatestListing [title=Nintendo 2DS slot in pen stylus New., link=/gaming/nintendo-3ds/accessories/auction-1296642685.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];

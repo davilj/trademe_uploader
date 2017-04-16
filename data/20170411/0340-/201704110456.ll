@@ -1,0 +1,15 @@
+LatestListing [title=*Cute Little Mugs with Feet - Green, link=/pottery-glass/porcelain-pottery/other/cups-saucers/auction-1295828122.htm, closingTimeText=closes in 2 secs, bidInfo=, priceInfo=$15.00];
+LatestListing [title=*Side Plate - Royal Stafford - "Broom", link=/pottery-glass/porcelain-pottery/staffordshire/plates-bowls-dishes/auction-1295828274.htm, closingTimeText=closes in 36 secs, bidInfo=, priceInfo=$2.00];
+LatestListing [title=* Two Handled Soup Bowl - Grindley., link=/pottery-glass/porcelain-pottery/other-british-manufacturers/bowls-dishes/auction-1295828612.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$3.00];
+LatestListing [title=Antique Victoria Plates Pay now., link=/pottery-glass/porcelain-pottery/other-european-manufacturers/auction-1295853233.htm, closingTimeText=closes in 2 hrs 2 mins, bidInfo=, priceInfo=$12.00];
+LatestListing [title=Art Glass Bowl Pay now., link=/pottery-glass/glass-crystal/bowls-dishes/auction-1295853646.htm, closingTimeText=closes in 2 hrs 3 mins, bidInfo=, priceInfo=$25.00];
+LatestListing [title=JAJ (English) Pyrex 3.5 Pint Deep Oblong Casserole Dish - Snowflake, link=/pottery-glass/glass-crystal/bowls-dishes/auction-1295856486.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=Stoneware salt pig in perfect condition Pay now., link=/pottery-glass/porcelain-pottery/other-nz-manufacturers/auction-1295856763.htm, closingTimeText=closes in 2 hrs 13 mins, bidInfo=, priceInfo=$8.00];
+LatestListing [title=Rorstrand Oven Dish - Granada, link=/pottery-glass/porcelain-pottery/other/bowls-dishes/auction-1295857218.htm, closingTimeText=closes in 2 hrs 15 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=TEMUKA SERVING DISH, link=/pottery-glass/porcelain-pottery/temuka/bowls-dishes/auction-1295876289.htm, closingTimeText=closes in 3 hrs 1 min, bidInfo=, priceInfo=$12.00];
+LatestListing [title=Bovey Nurseryware, link=/pottery-glass/porcelain-pottery/other-british-manufacturers/cups-saucers/auction-1295876331.htm, closingTimeText=closes in 3 hrs 1 min, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Hornsea Prince Of Wales Mug, link=/pottery-glass/porcelain-pottery/other-british-manufacturers/cups-saucers/auction-1295876350.htm, closingTimeText=closes in 3 hrs 1 min, bidInfo=, priceInfo=$15.00];
+LatestListing [title=Crown Lynn Vase 2 shells No. 105, link=/pottery-glass/porcelain-pottery/crown-lynn/vases/auction-1295876569.htm, closingTimeText=closes in 3 hrs 2 mins, bidInfo=, priceInfo=$50.00];
+LatestListing [title=DEPRESSION GLASS CANDLE HOLDERS, link=/pottery-glass/glass-crystal/candle-holders/auction-1297319136.htm, closingTimeText=closes in 3 hrs 5 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=French antique Monk figurine, link=/pottery-glass/porcelain-pottery/unmarked-pieces/auction-1295879860.htm, closingTimeText=closes in 3 hrs 10 mins, bidInfo=, priceInfo=$50.00];
+LatestListing [title=French antique monk figurine, link=/pottery-glass/porcelain-pottery/unmarked-pieces/auction-1295879866.htm, closingTimeText=closes in 3 hrs 10 mins, bidInfo=, priceInfo=$50.00];

@@ -1,0 +1,8 @@
+LatestListing [title=Luxury Escape in Thailand Free Shipping., link=/travel-events-activities/holiday-packages/international/auction-1297059069.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$30.00];
+LatestListing [title=Sail Indonesia with us, link=/travel-events-activities/holiday-packages/international/auction-1297116610.htm, closingTimeText=closes in 1 hr 7 mins, bidInfo=, priceInfo=$150.00];
+LatestListing [title=Wedding and civil union celebrant voucher - Queenstown - Fundraising!! Pay now. Free Shipping., link=/travel-events-activities/activities/auction-1297121478.htm, closingTimeText=closes in 1 hr 13 mins, bidInfo=, priceInfo=$50.00];
+LatestListing [title=Luggage Strap Adjustable Suitcase Lock Belt With Name Tag TSA Number Lock New. Pay now., link=/travel-events-activities/other/auction-1297121691.htm, closingTimeText=closes in 1 hr 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=Bullswool Farm Park Pass for 2 Adults usually $30, link=/travel-events-activities/activities/auction-1297165806.htm, closingTimeText=closes in 2 hrs 8 mins, bidInfo=6 bids, priceInfo=$5.50];
+LatestListing [title=booked Pay now. Free Shipping., link=/travel-events-activities/accommodation/new-zealand/coromandel/auction-1300129620.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$7,500];
+LatestListing [title=75L Mountain Design backpack, link=/travel-events-activities/other/auction-1297169258.htm, closingTimeText=closes in 2 hrs 15 mins, bidInfo=, priceInfo=$100.00];
+LatestListing [title=2x TSA Approved Travel Locks - 4 Digit New. Pay now., link=/travel-events-activities/other/auction-1297908087.htm, closingTimeText=closes in 3 hrs 14 mins, bidInfo=, priceInfo=];

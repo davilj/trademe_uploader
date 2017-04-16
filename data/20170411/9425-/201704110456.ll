@@ -1,0 +1,12 @@
+LatestListing [title=Dog Ball Launcher 61CM New. Pay now., link=/pets-animals/dogs/toys-treats/auction-1295839540.htm, closingTimeText=closes in 1 hr 1 min, bidInfo=, priceInfo=$12.00];
+LatestListing [title=Pewter/Bronze Classic Paw Urn - up to 10kgs New. Pay now., link=/pets-animals/other/auction-1295839588.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$49.95];
+LatestListing [title=Slate/Pewter Classic Paw Urn - up to 10kgs New. Pay now., link=/pets-animals/other/auction-1295839590.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$49.95];
+LatestListing [title=Dog House Cremation Urn - up to 100kgs New. Pay now. Free Shipping., link=/pets-animals/other/auction-1295839753.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$179.95];
+LatestListing [title=Slate/Pewter Double Paw Heart Keepsake New. Pay now. Free Shipping., link=/pets-animals/other/auction-1295839755.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$39.95];
+LatestListing [title=Pewter/Bronze Classic Paw Urn Keepsake New. Pay now. Free Shipping., link=/pets-animals/other/auction-1295839758.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$29.95];
+LatestListing [title=Medium Mouse W/Catnip- New. Pay now. Free Shipping., link=/pets-animals/cats/toys-treats/auction-1295840401.htm, closingTimeText=closes in 1 hr 6 mins, bidInfo=, priceInfo=];
+LatestListing [title=FURminator - Long Hair, Size M New. Pay now., link=/pets-animals/dogs/grooming/auction-1295840430.htm, closingTimeText=closes in 1 hr 6 mins, bidInfo=, priceInfo=$52.99];
+LatestListing [title=Goldfish x4 ( 8-10cm), link=/pets-animals/fish/fish/cold-water-fish/auction-1297267422.htm, closingTimeText=closes in 1 hr 9 mins, bidInfo=, priceInfo=$32.00];
+LatestListing [title=Tropical colour enhancing pellets, fish food 2mm 200g Pay now., link=/pets-animals/fish/fish-food/auction-1295841364.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=New Dog Jumper Sweater, Size XS, S, M, L, XL #29 New., link=/pets-animals/dogs/dog-apparel/auction-1295841515.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=$12.00];
+LatestListing [title=Puppy Toilet Training Tray New. Pay now., link=/pets-animals/dogs/other/auction-1295842466.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$14.99];

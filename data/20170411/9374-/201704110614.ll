@@ -1,0 +1,5 @@
+LatestListing [title=April timeshare week. Lake Taupo. Free Shipping., link=/travel-events-activities/accommodation/new-zealand/lake-taupo/auction-1298101151.htm, closingTimeText=closes in 3 hrs 9 mins, bidInfo=, priceInfo=$850.00];
+LatestListing [title=BRUGO Travel Mug Leak Proof Temp Control 450ml New. Pay now., link=/travel-events-activities/other/auction-1295917384.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$32.95];
+LatestListing [title=BRUGO Travel Mug Leak Proof Temp Control 450ml New. Pay now., link=/travel-events-activities/other/auction-1295917393.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$32.95];
+LatestListing [title=BRUGO Travel Mug Leak Proof Temp Control 450ml New. Pay now., link=/travel-events-activities/other/auction-1295917398.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$32.95];
+LatestListing [title=BRUGO Travel Mug Leak Proof Temp Control 450ml New. Pay now., link=/travel-events-activities/other/auction-1295917396.htm, closingTimeText=closes in 3 hrs 11 mins, bidInfo=, priceInfo=$32.95];

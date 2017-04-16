@@ -1,0 +1,2 @@
+LatestListing [title=Bullswool Farm Park Pass for 2 Adults usually $30, link=/travel-events-activities/activities/auction-1297165806.htm, closingTimeText=closes in 9 mins, bidInfo=16 bids, priceInfo=$10.50];
+LatestListing [title=booked Pay now. Free Shipping., link=/travel-events-activities/accommodation/new-zealand/coromandel/auction-1300129620.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$7,500];

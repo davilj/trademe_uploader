@@ -1,0 +1,1 @@
+LatestListing [title=Royal Winton Lustre Sugar bowl and Jug, link=/pottery-glass/porcelain-pottery/royal-winton/plates/auction-1296511892.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=$15.00];

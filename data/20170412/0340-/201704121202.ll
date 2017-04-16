@@ -1,0 +1,10 @@
+LatestListing [title=Temuka Riverstone Milk Jug, link=/pottery-glass/porcelain-pottery/temuka/jugs/auction-1296748618.htm, closingTimeText=closes in 57 secs, bidInfo=, priceInfo=$15.95];
+LatestListing [title=Titian Pay now., link=/pottery-glass/porcelain-pottery/titian/auction-1296749845.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$11.00];
+LatestListing [title=English Rose Bud Serving Plate., link=/pottery-glass/porcelain-pottery/alfred-meakin/auction-1296750858.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=Royal Winton Cake Plate with silver Handle, link=/pottery-glass/porcelain-pottery/royal-winton/plates/auction-1296753734.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$30.00];
+LatestListing [title=Krosno Tall Vase, link=/pottery-glass/glass-crystal/vases/auction-1296754562.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=Very Rare Royal Worcester small Pin Dishes, link=/pottery-glass/porcelain-pottery/royal-worcester/auction-1296754852.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$50.00];
+LatestListing [title=Very Rare Royal Worcester small Pin Dishes, link=/pottery-glass/porcelain-pottery/royal-worcester/auction-1296754855.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$50.00];
+LatestListing [title=Carlton Ware Dishes, link=/pottery-glass/porcelain-pottery/carlton-ware/bowls-dishes/auction-1296755436.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=English Bone China Tennis Set Pay now., link=/pottery-glass/porcelain-pottery/other-british-manufacturers/sets/auction-1296756220.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$26.00];
+LatestListing [title=Franklin Mint Heralds of spring porcelain vase with wooden base., link=/pottery-glass/porcelain-pottery/other/vases/auction-1296757664.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$60.00];

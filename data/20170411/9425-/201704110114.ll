@@ -1,0 +1,5 @@
+LatestListing [title=Mammoth Tire Bite Dog Toy Mini New. Pay now., link=/pets-animals/dogs/toys-treats/auction-1299295317.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Small Animal Sounds Babble Ball-Red & Yellow New. Pay now. Free Shipping., link=/pets-animals/dogs/toys-treats/auction-1295775682.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=Water Bottle Pet Water Dispenser - Pink or Blue New. Pay now., link=/pets-animals/dogs/bowls-feeders/auction-1299296823.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$5.64];
+LatestListing [title=RAT CAGE, link=/pets-animals/mice-rodents/cages/auction-1299297204.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$100.00];
+LatestListing [title=Self Warming Pet Cushion Dog Cat Bed Mat Puppy Kitten 18 x 25 Fleece Washable New. Pay now., link=/pets-animals/dogs/beds-baskets/auction-1295794068.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=];

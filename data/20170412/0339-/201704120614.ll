@@ -1,0 +1,15 @@
+LatestListing [title='Tui in the Tree' A4 photo print New. Pay now., link=/art/photographs/flora-fauna/auction-1296585673.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=Windows, link=/art/prints/other/auction-1296586017.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$8.00];
+LatestListing [title=Polson's Paint, link=/art/prints/other/auction-1296586087.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=Symington's Soups, link=/art/prints/other/auction-1296586156.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Stop Look Out For Tramcars, link=/art/prints/other/auction-1296586209.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=Tram Stop, link=/art/prints/other/auction-1296586266.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=This is a gorgeous print in wooden frame, link=/art/prints/other/auction-1296602946.htm, closingTimeText=closes in 1 hr 2 mins, bidInfo=, priceInfo=$20.00];
+LatestListing [title=Stylo Sketch Pen-Black New. Pay now. Free Shipping., link=/art/art-supplies-equipment/technical-pens-aids/auction-1296603958.htm, closingTimeText=closes in 1 hr 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=Sarah Dolby Oil painting, link=/art/paintings/portrait/oil/auction-1296605118.htm, closingTimeText=closes in 1 hr 8 mins, bidInfo=, priceInfo=$4,500];
+LatestListing [title=Original artwork being sold by the artist New., link=/art/paintings/abstract/other/auction-1296606153.htm, closingTimeText=closes in 1 hr 11 mins, bidInfo=, priceInfo=$290.00];
+LatestListing [title=Retro Art Print Pay now., link=/art/prints/abstract/auction-1296607564.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=$150.00];
+LatestListing [title=Wall Decor 10 Circle Ring Indoor 3D Wall Art New. Pay now., link=/art/hanging-sculptures/auction-1296629951.htm, closingTimeText=closes in 2 hrs 5 mins, bidInfo=, priceInfo=];
+LatestListing [title=City of Sails in Blue thick oil painting Pay now., link=/art/paintings/landscape/oil/auction-1296630257.htm, closingTimeText=closes in 2 hrs 5 mins, bidInfo=, priceInfo=$180.00];
+LatestListing [title=City of Sails in Brown thick oil painting Pay now., link=/art/paintings/landscape/oil/auction-1296630259.htm, closingTimeText=closes in 2 hrs 5 mins, bidInfo=, priceInfo=$180.00];
+LatestListing [title=Misty in Nude oil painting Pay now., link=/art/paintings/portrait/oil/auction-1296630262.htm, closingTimeText=closes in 2 hrs 5 mins, bidInfo=, priceInfo=$580.00];

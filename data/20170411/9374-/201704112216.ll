@@ -1,0 +1,1 @@
+LatestListing [title=Wyndham Resort Denarau Island FIJI for 7 Nights Xmas 2017 Free Shipping., link=/travel-events-activities/accommodation/international/auction-1296457970.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=$2,745];

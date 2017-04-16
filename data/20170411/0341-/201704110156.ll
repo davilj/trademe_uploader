@@ -1,0 +1,11 @@
+LatestListing [title=HoneyComb Texture Knit Fabric Jersey,Earthy Colours, Photography - Off White New. Pay now., link=/crafts/fabric/synthetics-blends/auction-1295785099.htm, closingTimeText=closes in 2 secs, bidInfo=, priceInfo=];
+LatestListing [title=10m Assorted Satin Ribbon New., link=/crafts/scrapbooking/embellishment/ribbons-twill/auction-1295785339.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$6.00];
+LatestListing [title=Nylon Stocking New., link=/crafts/fabric/lycra/auction-1295785341.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$6.00];
+LatestListing [title=Brushed Cotton New., link=/crafts/fabric/flannel/auction-1295785344.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$5.00];
+LatestListing [title=Gold Elastic Rope New., link=/crafts/sewing/embellishments/auction-1295785739.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$25.00];
+LatestListing [title=Beautiful Embroidered Collars RRP$40 New., link=/crafts/sewing/other/auction-1295785740.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$12.00];
+LatestListing [title="""CABACHON GLASS SQUARE DOME 25mm X 5 PCS New. Pay now., link=/crafts/jewellery-making-beading/beads/glass/auction-1295786856.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Fragrance Oil Champaka 50ml New. Pay now., link=/crafts/other/auction-1295786904.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$5.50];
+LatestListing [title=PURPLE GLASS SEED BEADS 2mm 50grs New. Pay now., link=/crafts/jewellery-making-beading/beads/glass/auction-1295787068.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Almond Fragrance Oil - 25ml New. Pay now., link=/crafts/candle-making/auction-1295788137.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=Acrylic Knitting Yarn (8 Ply) Colour 443 x 6 units New. Pay now., link=/crafts/knitting-weaving/wool/auction-1295789551.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];

@@ -1,0 +1,5 @@
+LatestListing [title=CYNDI LAUPER & BLONDIE Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296226907.htm, closingTimeText=closes in 2 hrs 2 mins, bidInfo=1 bid, priceInfo=$90.00];
+LatestListing [title=Rooftop tent 3 ppl - 190cm x 210cm, link=/travel-events-activities/other/auction-1296228235.htm, closingTimeText=closes in 2 hrs 4 mins, bidInfo=6 bids, priceInfo=$480.00];
+LatestListing [title=FIJI HOLIDAY DENARAU ISLAND Pay now. Free Shipping., link=/travel-events-activities/accommodation/international/auction-1296233356.htm, closingTimeText=closes in 2 hrs 11 mins, bidInfo=, priceInfo=$1,600];
+LatestListing [title=Passport Wallet Handy Travel Holder Dark Blue - L New. Pay now., link=/travel-events-activities/other/auction-1296274583.htm, closingTimeText=closes in 3 hrs 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=Passport Wallet Handy Travel Holder - Large Green New. Pay now., link=/travel-events-activities/other/auction-1298429579.htm, closingTimeText=closes in 3 hrs 13 mins, bidInfo=, priceInfo=];

@@ -1,0 +1,14 @@
+LatestListing [title=Walk in Avairy. New., link=/pets-animals/birds/cages-accessories/auction-1295845956.htm, closingTimeText=closes in 0 secs, bidInfo=, priceInfo=$675.00];
+LatestListing [title=LargeWalk in Avairy New., link=/pets-animals/birds/cages-accessories/auction-1295845962.htm, closingTimeText=closes in 2 secs, bidInfo=, priceInfo=$1,625];
+LatestListing [title=Extra Large rabbit hutch. New., link=/pets-animals/rabbits-guinea-pigs/hutches/auction-1295845964.htm, closingTimeText=closes in 2 secs, bidInfo=, priceInfo=$230.00];
+LatestListing [title=Rabbit Hutch..Brand new...Large. New., link=/pets-animals/rabbits-guinea-pigs/hutches/auction-1295845966.htm, closingTimeText=closes in 3 secs, bidInfo=, priceInfo=$190.00];
+LatestListing [title=Cat Scratcher New. Pay now., link=/pets-animals/cats/toys-treats/auction-1299380195.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$14.95];
+LatestListing [title=Pet Dog Bed Hammock S Canopy 61cmx46cm Trampoline New. Pay now., link=/pets-animals/dogs/beds-baskets/auction-1299380233.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Pet Dog Bed Hammock S Canopy 61cmx46cm Trampoline New. Pay now., link=/pets-animals/dogs/beds-baskets/auction-1299380234.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Pet Dog Soft Crate 42cm x 36cm x 33cm New. Pay now., link=/pets-animals/dogs/travel-carriers/auction-1299380237.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$24.95];
+LatestListing [title=LED under water light high quality 50cm waterproof New. Pay now., link=/pets-animals/fish/lights-lamps/auction-1295846877.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$60.00];
+LatestListing [title=Iams Kitten Food 2.55 kg New. Pay now. Free Shipping., link=/pets-animals/cats/other/auction-1295847933.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=Eukanuba Sensitive Skin Dog Food 2.3 kg New. Pay now. Free Shipping., link=/pets-animals/dogs/food/auction-1295848257.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=];
+LatestListing [title=Snugglesafe Microwave Heat Pad Pet Heat Pad New. Pay now., link=/pets-animals/dogs/beds-baskets/auction-1295849104.htm, closingTimeText=closes in 11 mins, bidInfo=, priceInfo=];
+LatestListing [title=Stainless steel 4 way air valve New. Pay now., link=/pets-animals/fish/pumps-filters/auction-1295849284.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Prestige Pet Oil Skin Coat 45cm New. Pay now. Free Shipping., link=/pets-animals/dogs/dog-apparel/auction-1295849325.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=];

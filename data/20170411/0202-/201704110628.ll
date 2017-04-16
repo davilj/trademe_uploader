@@ -1,0 +1,6 @@
+LatestListing [title=Tom Clancy's Rainbow Six Vegas 2, link=/gaming/xbox-360/games/shooter/auction-1295845957.htm, closingTimeText=closes in 12 secs, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Konami Yu-Gi-Oh - Duelist Alliance - Singles Magical Spring (Secret Rare) (NM) Pay now., link=/gaming/trading-cards/yugioh/individual-cards/auction-1295846693.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=***PS1 COOL BOARDERS 2 nm no coverslip Pay now., link=/gaming/playstation/games/sports/auction-1295847013.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=PS1 Medal of Honor Underground nm no coverslip P Pay now., link=/gaming/playstation/games/strategy-puzzle/auction-1295847908.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=];
+LatestListing [title=PS1 GRAN TURISMO The real driving simulator P nm no coverslip Pay now., link=/gaming/playstation/games/driving-racing/auction-1295848288.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=];
+LatestListing [title=Scooby Doo (gold and Beautifier) cards x 16, link=/gaming/trading-cards/other/auction-1295850050.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$8.00];

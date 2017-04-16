@@ -1,0 +1,18 @@
+LatestListing [title=limoges H&C° France, link=/pottery-glass/porcelain-pottery/limoges/auction-1296932969.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$65.00];
+LatestListing [title=Pottery Soup / Salad Bowl Set 5, link=/pottery-glass/porcelain-pottery/unmarked-pieces/auction-1296933379.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=Frosted Glass cannister made in Japan, link=/pottery-glass/glass-crystal/other/auction-1296933794.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=Egyptian Perfume Bottle New., link=/pottery-glass/glass-crystal/other/auction-1299656047.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$18.00];
+LatestListing [title=CROWN LYNN "GREENSTONE" VASE #2033. Pay now., link=/pottery-glass/porcelain-pottery/crown-lynn/vases/auction-1296935167.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$17.50];
+LatestListing [title=Miniature Glass Vases x2, link=/pottery-glass/glass-crystal/vases/auction-1296936661.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=LLADRO ANGEL WITH HORN 4540, link=/pottery-glass/porcelain-pottery/other-european-manufacturers/auction-1296936680.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$75.00];
+LatestListing [title=-COLLECTABLE DECORTIVE DISHES, link=/pottery-glass/porcelain-pottery/other/bowls-dishes/auction-1296937070.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$4.50];
+LatestListing [title=-COLLECTABLE DECORTIVE DISHES, link=/pottery-glass/porcelain-pottery/other/bowls-dishes/auction-1296937332.htm, closingTimeText=closes in 7 mins, bidInfo=, priceInfo=$4.50];
+LatestListing [title=Pottery Casserole with Lid & 2x Serving Plates, link=/pottery-glass/porcelain-pottery/unmarked-pieces/auction-1296937776.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=-COLLECTABLE DECORTIVE DISHES, link=/pottery-glass/porcelain-pottery/other/bowls-dishes/auction-1296937830.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$4.50];
+LatestListing [title=CROWN LYNN TAM O SHANTER SET, link=/pottery-glass/porcelain-pottery/crown-lynn/plates-platters/auction-1296938014.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$80.00];
+LatestListing [title=-COLLECTABLE DECORTIVE DISHES, link=/pottery-glass/porcelain-pottery/other/bowls-dishes/auction-1296938280.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$4.50];
+LatestListing [title=-COLLECTABLE DECORTIVE DISHES, link=/pottery-glass/porcelain-pottery/other/bowls-dishes/auction-1296938623.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$4.50];
+LatestListing [title=Vtg Large Art Glass vase Pay now., link=/pottery-glass/glass-crystal/vases/auction-1296941455.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$75.00];
+LatestListing [title=Coloured Glass Flute Lily Vase, link=/pottery-glass/glass-crystal/vases/auction-1297436256.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$25.00];
+LatestListing [title=old glass medicine bottle, link=/pottery-glass/glass-crystal/decanters-bottles/auction-1296942960.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=$1.00];
+LatestListing [title=Blue Mountain Green jug Pay now., link=/pottery-glass/porcelain-pottery/blue-mountain/auction-1296943328.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$25.00];

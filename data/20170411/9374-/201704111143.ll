@@ -1,0 +1,2 @@
+LatestListing [title=Travel bag, link=/travel-events-activities/other/auction-1296039421.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=Waterproof Bicycle Cover Vintage Road Mountain Hybrid Bike Storage New. Pay now. Free Shipping., link=/travel-events-activities/other/auction-1296104034.htm, closingTimeText=closes in 3 hrs 13 mins, bidInfo=, priceInfo=];

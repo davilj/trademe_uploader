@@ -1,0 +1,3 @@
+LatestListing [title=Bed & Breakfast (King) Wgtn Accommodation Lions Rugby Tour 2017 Pay now. Free Shipping., link=/travel-events-activities/accommodation/new-zealand/wellington/auction-1296825384.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$120.00];
+LatestListing [title=Passport Wallet Handy Travel Holder - Blue New. Pay now., link=/travel-events-activities/other/auction-1296851761.htm, closingTimeText=closes in 1 hr 1 min, bidInfo=, priceInfo=];
+LatestListing [title=Dixie Chicks (Napier) New. Free Shipping., link=/travel-events-activities/event-tickets/concerts/auction-1296928745.htm, closingTimeText=closes in 3 hrs 14 mins, bidInfo=, priceInfo=$70.00];

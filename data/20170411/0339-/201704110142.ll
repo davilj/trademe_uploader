@@ -1,0 +1,15 @@
+LatestListing [title=Daler-Rowney Graduate Brush Set -10 Long Handled Brushes in Zip Case New. Pay now., link=/art/art-supplies-equipment/brushes/auction-1295782040.htm, closingTimeText=closes in 51 secs, bidInfo=, priceInfo=];
+LatestListing [title=TATTOO SLEEVES - 6 pieces, Random New. Pay now., link=/art/tattoos/temporary-tattoos/auction-1295782437.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=Paintings iron metal wall art New. Pay now., link=/art/paintings/abstract/acrylic/auction-1293749389.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=Gold/Silver Temporary Metallic Tattoos Incl Bracel New. Pay now. Free Shipping., link=/art/tattoos/temporary-tattoos/auction-1295782528.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=A3 Posters New. Pay now., link=/art/prints/portraits/auction-1295784258.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=Winsor and Newton Monarch Brush - Short Flat / Bright Size 0 (3mm) New. Pay now., link=/art/art-supplies-equipment/brushes/auction-1295784925.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=Triangular Bells Gold, Pack of 15 New. Pay now., link=/art/art-supplies-equipment/other/auction-1295784992.htm, closingTimeText=closes in 14 mins, bidInfo=, priceInfo=];
+LatestListing [title=Lyra Hi-Quality Art Pen, 10/Metal Box New. Pay now., link=/art/art-supplies-equipment/paints-varnishes/other/auction-1295801554.htm, closingTimeText=closes in 1 hr 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=Daler Rowney Langton Watercolour Block (355 x 254) New. Pay now., link=/art/art-supplies-equipment/paper-pads-canvas/auction-1295802504.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=];
+LatestListing [title=Dotspen - pack of 5 refill cartridges - yellow New. Pay now., link=/art/art-supplies-equipment/paints-varnishes/other/auction-1295814040.htm, closingTimeText=closes in 2 hrs 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Censor, link=/art/paintings/abstract/acrylic/auction-1295816563.htm, closingTimeText=closes in 2 hrs 14 mins, bidInfo=, priceInfo=$600.00];
+LatestListing [title=Winsor and Newton Canvas Board 30in x 20in (Each) New. Pay now., link=/art/art-supplies-equipment/paper-pads-canvas/auction-1295816644.htm, closingTimeText=closes in 2 hrs 15 mins, bidInfo=, priceInfo=];
+LatestListing [title=Winsor and Newton Griffin Alkyd 37ml tube Prussian Blue, Series 1 New. Pay now., link=/art/art-supplies-equipment/paints-varnishes/oilbased/auction-1295826311.htm, closingTimeText=closes in 3 hrs 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=40 x Bockingford 300gsm (140lbs) NOT 1/4 imperial (28x38cm/11x15") New. Pay now., link=/art/art-supplies-equipment/paper-pads-canvas/auction-1295826745.htm, closingTimeText=closes in 3 hrs 4 mins, bidInfo=, priceInfo=];
+LatestListing [title=Temporary Tattoos Wisdom Eyes New. Pay now. Free Shipping., link=/art/tattoos/other/auction-1297243589.htm, closingTimeText=closes in 3 hrs 13 mins, bidInfo=, priceInfo=$9.99];

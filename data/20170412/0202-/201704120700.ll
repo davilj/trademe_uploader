@@ -1,0 +1,10 @@
+LatestListing [title=2 x PS2 Wireless Controller New. Pay now., link=/gaming/playstation-2/accessories/controllers/auction-1300038131.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$23.85];
+LatestListing [title=2 x PS2 Controller Wired New. Pay now., link=/gaming/playstation-2/accessories/controllers/auction-1300038143.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$12.85];
+LatestListing [title=Two USB joysticks, link=/gaming/joysticks-gamepads/auction-1296598854.htm, closingTimeText=closes in 6 mins, bidInfo=, priceInfo=$10.00];
+LatestListing [title=TK Play - Galapagos - Match three game, link=/gaming/pc-games/strategy-puzzle/auction-1296599556.htm, closingTimeText=closes in 8 mins, bidInfo=, priceInfo=$3.00];
+LatestListing [title={PS3} Brutal Legend Pay now., link=/gaming/playstation-3/games/action-adventure/auction-1296600817.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$9.90];
+LatestListing [title=N64 Controller Grey Pay now., link=/gaming/other-nintendo/n64/accessories/auction-1296601579.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$34.00];
+LatestListing [title=N64 Controller Blue Pay now., link=/gaming/other-nintendo/n64/accessories/auction-1296601592.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$34.00];
+LatestListing [title=Infamous Second Son PS4, link=/gaming/playstation-4/games/auction-1296601722.htm, closingTimeText=closes in 12 mins, bidInfo=, priceInfo=$30.00];
+LatestListing [title=Mortal Kombat X PS4, link=/gaming/playstation-4/games/auction-1296601810.htm, closingTimeText=closes in 12 mins, bidInfo=1 bid, priceInfo=$35.00];
+LatestListing [title=Monsters, Inc. Scare Island - PC, link=/gaming/pc-games/kids-educational/auction-1296602271.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$5.00];

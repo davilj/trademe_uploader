@@ -1,0 +1,11 @@
+LatestListing [title=Eddie Calvert Great Standards E/P Pay now., link=/music-instruments/vinyl/45-rpm/other/auction-1296591089.htm, closingTimeText=closes in 1 hr 3 mins, bidInfo=, priceInfo=$2.50];
+LatestListing [title=Bernstein Conducts Favourite Suites Pay now., link=/music-instruments/cds/classical/auction-1296591292.htm, closingTimeText=closes in 1 hr 4 mins, bidInfo=, priceInfo=$1.00];
+LatestListing [title=Atomic Kitten - Ladies Night, link=/music-instruments/cds/compilations/auction-1296592591.htm, closingTimeText=closes in 1 hr 8 mins, bidInfo=, priceInfo=$4.00];
+LatestListing [title=History of Pop Radio Vol. 7 1939 CD Pay now., link=/music-instruments/cds/compilations/auction-1296593788.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=$3.00];
+LatestListing [title=The Sugars - The Curse Of The Sugars CD 2008 Pay now., link=/music-instruments/cds/pop-rock/artist-s/auction-1296593908.htm, closingTimeText=closes in 1 hr 12 mins, bidInfo=, priceInfo=$2.50];
+LatestListing [title=Revis "Places For Breathing" CD 2003 Pay now., link=/music-instruments/cds/pop-rock/artist-r/auction-1296593990.htm, closingTimeText=closes in 1 hr 13 mins, bidInfo=, priceInfo=$2.00];
+LatestListing [title=Organ, old pedal type, grab a bargain !!, link=/music-instruments/instruments/keyboards-piano/organs/auction-1296594168.htm, closingTimeText=closes in 1 hr 13 mins, bidInfo=, priceInfo=$1.00];
+LatestListing [title=The Golden Republic CD 2004 Pay now., link=/music-instruments/cds/pop-rock/artist-g/auction-1296594217.htm, closingTimeText=closes in 1 hr 13 mins, bidInfo=, priceInfo=$2.25];
+LatestListing [title=Styles Upon Styles Pt. 1. Urban Soul Pollination Pay now., link=/music-instruments/cds/new-zealand/various/auction-1296594384.htm, closingTimeText=closes in 1 hr 14 mins, bidInfo=, priceInfo=$4.50];
+LatestListing [title=Max Roach & Friends. Historical Masters Vol. 2. CD Pay now., link=/music-instruments/cds/jazz/artist-pr/auction-1296594537.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$5.00];
+LatestListing [title=The Poppies "Deep Sinking" Ep CD 1995. Pay now., link=/music-instruments/cds/pop-rock/artist-p/auction-1296594822.htm, closingTimeText=closes in 1 hr 15 mins, bidInfo=, priceInfo=$1.00];

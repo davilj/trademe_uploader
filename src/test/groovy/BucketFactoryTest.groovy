@@ -1,4 +1,4 @@
-import com.google.cloud.storage.Bucket
+import org.davilj.trademe.google.BucketFactory
 import spock.lang.Specification
 
 /**
@@ -12,6 +12,6 @@ class BucketFactoryTest extends Specification {
 
         then:
         result==true
-        //check file is uploaded to trademetestdata bucket
+        //manual test: check file is uploaded to trademetestdata bucket
     }
 }

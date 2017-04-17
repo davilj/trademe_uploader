@@ -18,6 +18,8 @@ apply plugin: 'java'
 // Apply the groovy plugin to also add support for Groovy (needed for Spock)
 apply plugin: 'groovy'
 
+version = '1.0.0'
+
 buildscript {
     repositories {
         jcenter()
@@ -50,3 +52,16 @@ dependencies {
     testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
     testCompile 'junit:junit:4.12'
 }
+
+//create a single Jar with all dependencies
+task fatJar(type: Jar) {
+    manifest {
+        attributes 'Implementation-Title': 'Gradle Jar File Example',
+                'Implementation-Version': version,
+                'Main-Class': 'com.mkyong.DateUtils'
+    }
+    baseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+

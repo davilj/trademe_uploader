@@ -1,4 +1,6 @@
 import com.google.common.io.Files
+import org.davilj.trademe.zipper.IZipper
+import org.davilj.trademe.zipper.imp.Zipper
 import spock.lang.Specification
 
 /**
@@ -19,7 +21,7 @@ class ZipperTest extends Specification {
             zipDestination.deleteDir()
 
         when:
-            Zipper z = new Zipper()
+            IZipper z = new Zipper()
             def result = z.zipDirInDir(testDir, zipDestination)
 
         then:

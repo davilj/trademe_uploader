@@ -28,12 +28,13 @@ class ControllerTest extends Specification {
         zipDir.mkdirs()
 
         when:
-        Controller.main(testDir.getAbsolutePath(), zipDir.getAbsolutePath(), testFile.getAbsolutePath())
-
+        Controller.main(testDir.getAbsolutePath(), zipDir.getAbsolutePath(), testFile.getAbsolutePath(), "trademetestbucket")
 
         List<String> completed = testFile.readLines()
 
-        List<String> zipFiles = Arrays.stream(zipDir.listFiles()).map { file -> file.getName()}.collect(Collectors.toList())
+        List<String> zipFiles = Arrays.stream(zipDir.listFiles())
+                .map { file -> file.getName()}
+                .collect(Collectors.toList())
         println zipFiles
 
 

@@ -1,3 +1,4 @@
+import org.davilj.trademe.google.BucketFactory;
 import org.davilj.trademe.tasks.CompletedTasks;
 import org.davilj.trademe.zipper.IZipper;
 import org.davilj.trademe.zipper.imp.Zipper;
@@ -14,17 +15,19 @@ import java.util.Set;
  */
 public class Controller {
     private IZipper zipper;
+    private BucketFactory bucketFactory;
 
     public static void main(String[] args) {
         File startDir = new File(args[0]);
         File zipDir = new File(args[1]);
         File dataFile = new File(args[2]);
+        String bucketName = args[3];
 
         try {
             Controller controller = new Controller(new Zipper());
             CompletedTasks completedTasks = new CompletedTasks(dataFile);
-            controller.start(startDir, zipDir, completedTasks);
-        } catch (IOException e) {
+            controller.start(startDir, zipDir, completedTasks, bucketName);
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
@@ -33,19 +36,29 @@ public class Controller {
         this.zipper = zipper;
     }
 
-    protected void start(File startDir, File zipDir, CompletedTasks completedTasks) {
+    protected void start(File startDir, File zipDir, CompletedTasks completedTasks, String bucketName) throws Exception {
+        BucketFactory.BucketWrapper bucketWrapper = BucketFactory.get(bucketName);
 
-            long numberOfZip = Arrays.stream(startDir.listFiles())
+        long numberOfUploads  = Arrays.stream(startDir.listFiles())
                     .filter(file -> !completedTasks.isCompleted(file.getName()))
-                    .map(file -> {
-                        this.zipper.zipFilesInDir(file, zipDir);
-                        return file;
-                    })
-                    .map(file -> completedTasks.addCompletedTask(file.getName()))
+                    .map(file -> this.zipper.zipFilesInDir(file, zipDir))
+                    .map(file -> uploadFile(bucketWrapper, file))
+                    .map(file -> completedTasks.addCompletedTask(deriveTasknameFromFile(file)))
                     .count();
+    }
 
-            System.out.println(numberOfZip);
+    private File uploadFile(BucketFactory.BucketWrapper bucketWrapper, File file) {
+        try {
+            bucketWrapper.addFile(file);
+            return file;
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+    }
 
+    private String deriveTasknameFromFile(File file) {
+        String fileName = file.getName();
+        return fileName.substring(0, fileName.length()-4);
     }
 
 }

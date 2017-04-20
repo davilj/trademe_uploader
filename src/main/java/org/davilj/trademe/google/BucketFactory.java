@@ -25,10 +25,10 @@ public class BucketFactory {
                .build()
                .getService();
 
-     return new BucketWrapper(storage, "trademeupload");
+     return new BucketWrapper(storage, bucketName);
    }
 
-   static class BucketWrapper {
+   public static class BucketWrapper {
        private Storage storage;
        private String bucketName;
 

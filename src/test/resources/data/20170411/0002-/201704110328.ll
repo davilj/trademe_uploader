@@ -1,0 +1,11 @@
+LatestListing [title=Mint condition Microsoft Surface Pro 3 with docking station Pay now. Free Shipping., link=/computers/laptops/laptops/other/auction-1295810738.htm, closingTimeText=closes in 2 mins, bidInfo=3 bids, priceInfo=$810.00];
+LatestListing [title=Modem Router, link=/computers/networking-modems/modems/auction-1295810895.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$30.00];
+LatestListing [title=ADSL2+ Wireless 4-port Modem Router Dynalink RTA1025W, link=/computers/networking-modems/adsl-modems/auction-1295811053.htm, closingTimeText=closes in 4 mins, bidInfo=, priceInfo=$25.00];
+LatestListing [title=Logitech K270 Wireless KB & m185 wireless mouse combo, link=/computers/peripherals/keyboards/cordless/auction-1295812293.htm, closingTimeText=closes in 9 mins, bidInfo=, priceInfo=$40.00];
+LatestListing [title=WiFi Extender New. Pay now., link=/computers/networking-modems/wireless-networking/antennas/auction-1295812575.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=Logitech K270 Wireless KB, link=/computers/peripherals/keyboards/cordless/auction-1295813433.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=Logitech K270 Wireless KB, link=/computers/peripherals/keyboards/cordless/auction-1295813782.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$15.00];
+LatestListing [title=WrapSol Ultimate Screen Protector For Amazon Kindle Fire HD 7" Tablet Cover New. Pay now., link=/computers/tablets-ebook-readers/ebook-reader-accessories/screen-protectors/auction-1295834233.htm, closingTimeText=closes in 2 hrs 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=M-Edge Hampton Jacket For Amazon Kindle Fire Black Folio Stand Case Protection New. Pay now., link=/computers/tablets-ebook-readers/ebook-reader-accessories/cases-covers/auction-1295834245.htm, closingTimeText=closes in 2 hrs 2 mins, bidInfo=, priceInfo=];
+LatestListing [title=Sumsung monitor, link=/computers/monitors/lcd-monitors/auction-1295836625.htm, closingTimeText=closes in 2 hrs 12 mins, bidInfo=, priceInfo=$99.00];
+LatestListing [title=Dynalink ADSL2+ Modem Router, link=/computers/networking-modems/modems/auction-1295837309.htm, closingTimeText=closes in 2 hrs 15 mins, bidInfo=, priceInfo=$1.00];

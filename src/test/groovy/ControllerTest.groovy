@@ -16,7 +16,7 @@ class ControllerTest extends Specification {
         testFile.createNewFile()
 
         //build testDir
-        File templateDir = new File("data")
+        File templateDir = new File(root+File.separator + "data")
         File testDir = rmDir(root, "controller_test");
         testDir.mkdirs()
         new AntBuilder().copy( todir:testDir ) {

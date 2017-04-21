@@ -53,6 +53,7 @@ public class BucketFactory {
            } catch (IOException e) {
                throw new RuntimeException(e);
            }
+           System.out.println("Uploaded file: " + file);
            return true;
 
        }

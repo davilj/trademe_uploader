@@ -45,7 +45,7 @@ public class Zipper implements IZipper {
         }
 
         return Arrays.stream(dirs).map(file -> {
-                String zipFile = outputFolder.getPath() + File.separator + baseDir.getName() + ".zip";
+                String zipFile = outputFolder.getPath() + File.separator + file.getName() + ".zip";
                 antBuilder.invokeMethod("zip", new HashMap() {{
                     put("basedir", file.getPath());
                     put("destfile", zipFile);

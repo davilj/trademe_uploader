@@ -1,0 +1,11 @@
+LatestListing [title=Modem & Splitters, link=/computers/networking-modems/modems/auction-1295785329.htm, closingTimeText=closes in 1 min, bidInfo=, priceInfo=$25.00];
+LatestListing [title=it-iQ: N-TNC adapter N male to TNC male RF New., link=/computers/networking-modems/wireless-networking/adaptors/auction-1295785952.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=$16.95];
+LatestListing [title=Slim iMac 21.5" i5 2.9GHz 8GB 1.12TB Fusion GT650M Pay now., link=/computers/desktops/apple-desktops/auction-1295785602.htm, closingTimeText=closes in 3 mins, bidInfo=, priceInfo=];
+LatestListing [title=Shugon Freiburg 15.6 inch Laptop Backpack - 30 New. Pay now. Free Shipping., link=/computers/tablets-ebook-readers/ipad-accessories/cases-bags-protectors/auction-1295787943.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=Shugon Freiburg 15.6 inch Laptop Backpack - 30 New. Pay now. Free Shipping., link=/computers/tablets-ebook-readers/ipad-accessories/cases-bags-protectors/auction-1295787949.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=Amazon Kindle Touch 3G - Used Good Condition Pay now., link=/computers/tablets-ebook-readers/ebook-readers/auction-1295788130.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=Kindle Fire Amazon - Brand New 16 gig version New. Pay now., link=/computers/tablets-ebook-readers/tablets/auction-1295788204.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=All New Kindle - Latest 8th Gen White No Ads New. Pay now., link=/computers/tablets-ebook-readers/tablets/auction-1295788226.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=];
+LatestListing [title=2m Figure 8 Power Cord New. Pay now., link=/computers/cables-adaptors/power/auction-1299306652.htm, closingTimeText=closes in 10 mins, bidInfo=, priceInfo=$4.95];
+LatestListing [title=Wifi repeater New. Pay now., link=/computers/networking-modems/wireless-networking/routers/auction-1296520362.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=];
+LatestListing [title=iPad Mini Kids Case New. Pay now., link=/computers/tablets-ebook-readers/ipad-accessories/cases-bags-protectors/auction-1299307659.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$14.85];

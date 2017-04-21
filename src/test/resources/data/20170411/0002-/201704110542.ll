@@ -1,0 +1,10 @@
+LatestListing [title=Dynalink ADSL2+ Modem Router, link=/computers/networking-modems/modems/auction-1295837309.htm, closingTimeText=closes in 2 mins, bidInfo=, priceInfo=$1.00];
+LatestListing [title=Display Port to DVI Adapter Convertor New. Pay now., link=/computers/cables-adaptors/monitor/auction-1296572418.htm, closingTimeText=closes in 5 mins, bidInfo=, priceInfo=$6.49];
+LatestListing [title=Linksys SPA2102-AU, link=/computers/networking-modems/routers-firewalls/auction-1295839116.htm, closingTimeText=closes in 13 mins, bidInfo=, priceInfo=$30.00];
+LatestListing [title=AMD Ryzen 1700 16g DDR4 Gtx1070 120G SSD 1TB HDD New. Pay now. Free Shipping., link=/computers/desktops/no-monitor/auction-1295839404.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$2,150];
+LatestListing [title=Brother Tn240 Toner full set New. Pay now. Free Shipping., link=/computers/printer-accessories-supplies/laser-toner/colour/auction-1295839407.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=$345.00];
+LatestListing [title=EXTREME i7 6800k GTX1070 16GB RAM 500G SSD WIFI W7 New. Pay now. Free Shipping., link=/computers/desktops/lcd-monitor/auction-1295839409.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];
+LatestListing [title=High end gaming i7 7700K 16G RAM 120G SSD GTX1080ti New. Pay now. Free Shipping., link=/computers/desktops/no-monitor/auction-1295839410.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];
+LatestListing [title=Gaming i7 7700 16G RAM GTX1060 120G SSD 1TB HDD New. Pay now. Free Shipping., link=/computers/desktops/no-monitor/auction-1295839411.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];
+LatestListing [title=EXTREME i7 6850k GTX1080 32GB RAM 2TB 240G SSD W7 New. Pay now. Free Shipping., link=/computers/desktops/lcd-monitor/auction-1295839414.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];
+LatestListing [title=HP Original 650A TONER CYAN CE271A New. Pay now. Free Shipping., link=/computers/printer-accessories-supplies/laser-toner/black/auction-1295839415.htm, closingTimeText=closes in 15 mins, bidInfo=, priceInfo=];

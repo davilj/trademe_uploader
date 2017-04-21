@@ -30,6 +30,7 @@ public class CompletedTasks {
             String line = taskName + "\n";
             Files.write(dataFile.toPath(), line.getBytes(), StandardOpenOption.APPEND);
             this.completedTasks =  loadTaskFromFile(this.dataFile.toPath());
+            System.out.println("Marked completed: " + taskName);
             return true;
         } catch (IOException e) {
             throw new RuntimeException(e);

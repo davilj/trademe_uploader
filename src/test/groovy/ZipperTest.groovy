@@ -7,11 +7,35 @@ import spock.lang.Specification
  * Created by daniev on 16/04/17.
  */
 class ZipperTest extends Specification {
+    File dataDir = new File("src/test/resources/data")
+
     def "zipping files in a dir"() {
         setup:
-            File dataDir = new File("data")
+        File testDir = new File("tmpData")
+        testDir.deleteDir()
+        testDir.mkdirs()
+
+        new AntBuilder().copy( todir:testDir ) {
+            fileset( dir:dataDir )
+        }
+
+        def zipDestination = new File("zip")
+        zipDestination.deleteDir()
+
+        when:
+        IZipper z = new Zipper()
+        def result = z.zipFilesInDir(testDir, zipDestination)
+
+        then:
+        result.size()==6483717
+        result.getName()=="tmpData.zip"
+    }
+
+
+    def "zipping dirs in a dir"() {
+        setup:
             File testDir = new File("tmpData");
-            testDir.mkdirs();
+            testDir.mkdirs()
 
             new AntBuilder().copy( todir:testDir ) {
                 fileset( dir:dataDir )
@@ -25,7 +49,9 @@ class ZipperTest extends Specification {
             def result = z.zipDirInDir(testDir, zipDestination)
 
         then:
-            result==true
+            result.size()==2
+            result.contains(new File("zip/20170411.zip"))
+            result.contains(new File("zip//20170412.zip"))
             File[] results = zipDestination.listFiles();
             results.length==2
             def setOfFiles = new HashSet()

@@ -6,9 +6,11 @@ import org.davilj.trademe.zipper.imp.Zipper;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
+import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.Date;
 
 /**
  * Created by daniev on 17/04/17.
@@ -38,8 +40,11 @@ public class Controller {
 
     protected void start(File startDir, File zipDir, CompletedTasks completedTasks, String bucketName) throws Exception {
         BucketFactory.BucketWrapper bucketWrapper = BucketFactory.get(bucketName);
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
+        String today = sdf.format(new Date());
 
         long numberOfUploads  = Arrays.stream(startDir.listFiles())
+                    .filter(file -> !today.equals(file.getName()))
                     .filter(file -> !completedTasks.isCompleted(file.getName()))
                     .map(file -> this.zipper.zipFilesInDir(file, zipDir))
                     .map(file -> uploadFile(bucketWrapper, file))

@@ -11,11 +11,13 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.Date;
+import java.util.logging.Logger;
 
 /**
  * Created by daniev on 17/04/17.
  */
 public class Controller {
+    private static final Logger LOGGER = Logger.getLogger(Controller.class.getName());
     private IZipper zipper;
     private BucketFactory bucketFactory;
 

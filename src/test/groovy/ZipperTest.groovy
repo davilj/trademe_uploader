@@ -9,15 +9,27 @@ import spock.lang.Specification
 class ZipperTest extends Specification {
     File dataDir = new File("src/test/resources/data")
 
+    def "merging and zipping files in dir"() {
+        setup:
+        File testDir = setupTestData()
+
+        def zipDestination = new File("zipAll")
+        zipDestination.deleteDir()
+        zipDestination.mkdirs()
+
+        when:
+        IZipper z = new Zipper()
+        def result = z.mergeFilesInDirAndZip(testDir,zipDestination);
+
+        then:
+        result.size()==5428633
+        result.getName()=="tmpData.zip"
+
+    }
+
     def "zipping files in a dir"() {
         setup:
-        File testDir = new File("tmpData")
-        testDir.deleteDir()
-        testDir.mkdirs()
-
-        new AntBuilder().copy( todir:testDir ) {
-            fileset( dir:dataDir )
-        }
+        File testDir = setupTestData()
 
         def zipDestination = new File("zip")
         zipDestination.deleteDir()
@@ -34,12 +46,7 @@ class ZipperTest extends Specification {
 
     def "zipping dirs in a dir"() {
         setup:
-            File testDir = new File("tmpData");
-            testDir.mkdirs()
-
-            new AntBuilder().copy( todir:testDir ) {
-                fileset( dir:dataDir )
-            }
+            File testDir = setupTestData()
 
             def zipDestination = new File("zip")
             zipDestination.deleteDir()
@@ -68,5 +75,16 @@ class ZipperTest extends Specification {
             sizeSets.contains(3310876)==true
             sizeSets.contains(3150895)==true
 
+    }
+
+    def File setupTestData() {
+        File testDir = new File("tmpData")
+        testDir.deleteDir()
+        testDir.mkdirs()
+
+        new AntBuilder().copy( todir:testDir ) {
+            fileset( dir:dataDir )
+        }
+        return testDir
     }
 }

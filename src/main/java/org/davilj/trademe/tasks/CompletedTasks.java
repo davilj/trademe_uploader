@@ -7,12 +7,14 @@ import java.nio.file.Path;
 import java.nio.file.StandardOpenOption;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.logging.Logger;
 
 /**
  * Created by daniev on 18/04/17.
  * Contains all task that was already completed.  Also responsible to update data file
  */
 public class CompletedTasks {
+    private static final Logger LOGGER = Logger.getLogger(CompletedTasks.class.getName());
     private Set<String> completedTasks;
     private File dataFile;
 
@@ -30,7 +32,7 @@ public class CompletedTasks {
             String line = taskName + "\n";
             Files.write(dataFile.toPath(), line.getBytes(), StandardOpenOption.APPEND);
             this.completedTasks =  loadTaskFromFile(this.dataFile.toPath());
-            System.out.println("Marked completed: " + taskName);
+            LOGGER.info(String.format("Marked completed: %s ",taskName));
             return true;
         } catch (IOException e) {
             throw new RuntimeException(e);

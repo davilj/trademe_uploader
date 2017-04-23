@@ -9,4 +9,5 @@ import java.util.List;
 public interface IZipper {
     List<File> zipDirInDir(File baseDir, File outputFolder);
     File zipFilesInDir(File baseDir, File outputFolder);
+    File mergeFilesInDirAndZip(File baseDir, File outputFolder);
 }

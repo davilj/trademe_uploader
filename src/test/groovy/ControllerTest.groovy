@@ -12,20 +12,21 @@ class ControllerTest extends Specification {
         setup:
         def root = "src/test/resources"
         //create testFile
-        File testFile = rmFile(root, "controllerTest.ct");
+        File testFile = rmFile(root, "controllerTest.ct")
+        if (testFile.exists()) {
+            testFile.delete()
+        }
         testFile.createNewFile()
 
         //build testDir
         File templateDir = new File(root+File.separator + "data")
-        File testDir = rmDir(root, "controller_test");
-        testDir.mkdirs()
+        File testDir = rmDir(root, "controller_test")
         new AntBuilder().copy( todir:testDir ) {
             fileset( dir:templateDir )
         }
 
         //build testZip
-        File zipDir = rmDir(root, "controller_zip");
-        zipDir.mkdirs()
+        File zipDir = rmDir(root, "controller_zip")
 
         when:
         Controller.main(testDir.getAbsolutePath(), zipDir.getAbsolutePath(), testFile.getAbsolutePath(), "trademetestbucket")
@@ -35,8 +36,6 @@ class ControllerTest extends Specification {
         List<String> zipFiles = Arrays.stream(zipDir.listFiles())
                 .map { file -> file.getName()}
                 .collect(Collectors.toList())
-        println zipFiles
-
 
         then:
         completed.size()==2

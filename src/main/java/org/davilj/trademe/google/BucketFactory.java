@@ -12,11 +12,13 @@ package org.davilj.trademe.google;/*
  import java.io.*;
  import java.nio.ByteBuffer;
  import java.nio.file.Files;
+ import java.util.logging.Logger;
 
  import static java.nio.charset.StandardCharsets.UTF_8;
 
 
 public class BucketFactory {
+    private static final Logger LOGGER = Logger.getLogger(BucketFactory.class.getName());
    public static BucketWrapper get(String bucketName) throws Exception {
      // Instantiates a client
        Storage storage = StorageOptions.newBuilder()
@@ -53,7 +55,7 @@ public class BucketFactory {
            } catch (IOException e) {
                throw new RuntimeException(e);
            }
-           System.out.println("Uploaded file: " + file);
+           LOGGER.info(String.format("Uploaded file: %s", file));
            return true;
 
        }

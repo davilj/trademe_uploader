@@ -1,4 +1,5 @@
-import org.davilj.trademe.google.BucketFactory
+import org.davilj.trademe.bucket.BucketFactory
+import org.davilj.trademe.bucket.IBucket
 import org.junit.Ignore
 import spock.lang.Specification
 
@@ -12,7 +13,7 @@ import spock.lang.Specification
 class BucketFactoryTest extends Specification {
     def "upload files to google storage"() {
         when:
-        BucketFactory.BucketWrapper bw = BucketFactory.get("trademetestdata")
+        IBucket bw = BucketFactory.getGoogleBucket("trademetestdata")
         def result = bw.addFile(new File("zip/20170411.zip"))
 
         then:

@@ -1,15 +1,12 @@
-import org.davilj.trademe.google.BucketFactory;
+import org.davilj.trademe.bucket.BucketFactory;
+import org.davilj.trademe.bucket.IBucket;
 import org.davilj.trademe.tasks.CompletedTasks;
 import org.davilj.trademe.zipper.IZipper;
 import org.davilj.trademe.zipper.imp.Zipper;
 
 import java.io.File;
-import java.io.IOException;
-import java.nio.file.Files;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
 import java.util.Date;
 import java.util.logging.Logger;
 
@@ -27,10 +24,12 @@ public class Controller {
         File dataFile = new File(args[2]);
         String bucketName = args[3];
 
+
         try {
             Controller controller = new Controller(new Zipper());
             CompletedTasks completedTasks = new CompletedTasks(dataFile);
-            controller.start(startDir, zipDir, completedTasks, bucketName);
+            IBucket bucket = BucketFactory.getGoogleBucket(bucketName);
+            controller.start(startDir, zipDir, completedTasks, bucket);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -40,8 +39,7 @@ public class Controller {
         this.zipper = zipper;
     }
 
-    protected void start(File startDir, File zipDir, CompletedTasks completedTasks, String bucketName) throws Exception {
-        BucketFactory.BucketWrapper bucketWrapper = BucketFactory.get(bucketName);
+    protected void start(File startDir, File zipDir, CompletedTasks completedTasks, IBucket bucket) throws Exception {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
         String today = sdf.format(new Date());
 
@@ -49,14 +47,14 @@ public class Controller {
                     .filter(file -> !today.equals(file.getName()))
                     .filter(file -> !completedTasks.isCompleted(file.getName()))
                     .map(file -> this.zipper.zipFilesInDir(file, zipDir))
-                    .map(file -> uploadFile(bucketWrapper, file))
+                    .map(file -> uploadFile(bucket, file))
                     .map(file -> completedTasks.addCompletedTask(deriveTasknameFromFile(file)))
                     .count();
     }
 
-    private File uploadFile(BucketFactory.BucketWrapper bucketWrapper, File file) {
+    private File uploadFile(IBucket bucket, File file) {
         try {
-            bucketWrapper.addFile(file);
+            bucket.addFile(file);
             return file;
         } catch (Exception e) {
             throw new RuntimeException(e);

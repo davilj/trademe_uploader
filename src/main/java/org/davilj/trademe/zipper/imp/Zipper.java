@@ -95,7 +95,7 @@ public class Zipper implements IZipper {
                 LOGGER.info(String.format("---+Adding to zip: %s", file));
                 Files.readAllLines(file.toPath()).forEach(line -> {
                     try {
-                        zip.write(String.format("%s%n", line).getBytes());
+                        zip.write(String.format("%s, %s%n", line, file).getBytes());
                     } catch (IOException ioe) {
                         LOGGER.severe(String.format("---+Error reading: [%s] %s", line, ioe.getMessage()));
                         throw new RuntimeException(ioe);

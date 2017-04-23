@@ -22,7 +22,7 @@ class ZipperTest extends Specification {
         def result = z.mergeFilesInDirAndZip(testDir,zipDestination);
 
         then:
-        result.size()==5428633
+        result.size()==5685957
         result.getName()=="tmpData.zip"
 
     }

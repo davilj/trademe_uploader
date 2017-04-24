@@ -18,7 +18,7 @@ apply plugin: 'java'
 // Apply the groovy plugin to also add support for Groovy (needed for Spock)
 apply plugin: 'groovy'
 
-version = '1.0.2'
+version = '1.0.3'
 
 buildscript {
     repositories {
@@ -26,7 +26,7 @@ buildscript {
     }
 
     dependencies {
-        classpath group: 'com.bucket.cloud', name: 'bucket-cloud-storage', version: '0.11.0-beta'
+        classpath group: 'com.google.cloud', name: 'google-cloud-storage', version: '0.11.0-beta'
     }
 }
 
@@ -44,7 +44,7 @@ dependencies {
 
     // We use the latest groovy 2.x version for Spock testing
     compile 'org.codehaus.groovy:groovy-all:2.4.7'
-    compile group: 'com.bucket.cloud', name: 'bucket-cloud-storage', version: '0.11.0-beta'
+    compile group: 'com.google.cloud', name: 'google-cloud-storage', version: '0.11.0-beta'
     compile group: 'org.apache.ant', name: 'ant', version: '1.9.9'
     compile 'org.apache.ant:ant-launcher:1.9.9'
 
@@ -64,4 +64,3 @@ task fatJar(type: Jar) {
     from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
     with jar
 }
-

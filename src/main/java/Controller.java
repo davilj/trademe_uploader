@@ -46,7 +46,7 @@ public class Controller {
         long numberOfUploads  = Arrays.stream(startDir.listFiles())
                     .filter(file -> !today.equals(file.getName()))
                     .filter(file -> !completedTasks.isCompleted(file.getName()))
-                    .map(file -> this.zipper.zipFilesInDir(file, zipDir))
+                    .map(file -> this.zipper.mergeFilesInDirAndZip(file, zipDir))
                     .map(file -> uploadFile(bucket, file))
                     .map(file -> completedTasks.addCompletedTask(deriveTasknameFromFile(file)))
                     .count();
